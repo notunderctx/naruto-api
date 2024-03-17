@@ -1,0 +1,3821 @@
+{
+  "teams": [
+    {
+      "id": 0,
+      "name": "Akagi Gang",
+      "characters": [
+        {
+          "id": 132,
+          "name": "Bunzō",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/f/f0/Bunzo.png"
+          ],
+          "debut": {
+            "anime": "Naruto Episode #97",
+            "appearsIn": "Anime"
+          },
+          "personal": {
+            "sex": "Male",
+            "height": {
+              "Part I": "163.5cm"
+            },
+            "occupation": "Loan Collector",
+            "affiliation": "Land of Tea",
+            "team": "Akagi Gang",
+            "partner": "Senta"
+          },
+          "tools": ["Sword"],
+          "voiceActors": {
+            "japanese": "Atsushi Gotō",
+            "english": "Wally Wingert"
+          }
+        },
+        {
+          "id": 1071,
+          "name": "Senta",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/1/15/Senta.png"
+          ],
+          "debut": {
+            "anime": "Naruto Episode #97",
+            "appearsIn": "Anime"
+          },
+          "personal": {
+            "sex": "Male",
+            "height": {
+              "Part I": "180cm"
+            },
+            "occupation": "Loan Collector",
+            "affiliation": "Land of Tea",
+            "team": "Akagi Gang",
+            "partner": "Bunzō"
+          },
+          "tools": ["Sword"],
+          "voiceActors": {
+            "japanese": "Kōsuke Okano",
+            "english": "Richard Cansino"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Allied Mothers Force",
+      "characters": [
+        {
+          "id": 41,
+          "name": "Chōji's Mother",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/1/17/Choji%27s_Mother.png"
+          ],
+          "family": {
+            "son": "Chōji Akimichi",
+            "granddaughter": "Chōchō Akimichi",
+            "husband": "Chōza Akimichi"
+          },
+          "personal": {
+            "sex": "Female",
+            "affiliation": "Konohagakure",
+            "team": "Allied Mothers Force",
+            "clan": "Akimichi"
+          },
+          "voiceActors": {
+            "japanese": "Chiharu Kojima",
+            "english": "Mary Elizabeth McGlynn"
+          }
+        },
+        {
+          "id": 373,
+          "name": "Mebuki Haruno",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/0/0a/Mebuki_Haruno.png"
+          ],
+          "debut": {
+            "anime": "Naruto Shippūden Episode #271",
+            "novel": "Road to Ninja: Naruto the Movie",
+            "movie": "Road to Ninja: Naruto the Movie",
+            "appearsIn": "Anime, Novel, Movie"
+          },
+          "family": {
+            "daughter": "Sakura Haruno",
+            "granddaughter": "Sarada Uchiha",
+            "husband": "Kizashi Haruno"
+          },
+          "jutsu": ["Frying Pan Attack (Anime only)"],
+          "personal": {
+            "sex": "Female",
+            "height": {
+              "Part II": "172.5cm"
+            },
+            "affiliation": "Konohagakure",
+            "team": "Allied Mothers Force"
+          },
+          "voiceActors": {
+            "japanese": ["Kazue Ikura  (Part II)", "Yuki Masuda   (Part I)"],
+            "english": [
+              "Kate Higgins   (Episode 83 and Part II)",
+              "Saffron Henderson   (Episode 3 and 55)"
+            ]
+          }
+        },
+        {
+          "id": 880,
+          "name": "Yoshino Nara",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/9/9f/Yoshino_Nara.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #182",
+            "anime": "Naruto Episode #110",
+            "movie": "Naruto the Movie: Blood Prison",
+            "appearsIn": "Anime, Manga, Movie"
+          },
+          "family": {
+            "son": "Shikamaru Nara",
+            "grandson": "Shikadai Nara",
+            "husband": "Shikaku Nara"
+          },
+          "jutsu": ["Frying Pan Attack (Anime only)"],
+          "personal": {
+            "birthdate": "February 24",
+            "sex": "Female",
+            "age": {
+              "Part I": "36"
+            },
+            "height": {
+              "Part I": "162.1cm"
+            },
+            "weight": {
+              "Part I": "46.2kg"
+            },
+            "bloodType": "A",
+            "occupation": "Housewife",
+            "affiliation": "Konohagakure",
+            "team": "Allied Mothers Force  (Anime only)",
+            "clan": "Nara",
+            "titles": ["奈良ヨシノNaraYoshino"]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Chūnin"
+            },
+            "ninjaRegistration": "009091"
+          },
+          "voiceActors": {
+            "japanese": "Naoko Matsui",
+            "english": "Megan Hollingshead"
+          }
+        },
+        {
+          "id": 1366,
+          "name": "Ino's Mother",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/f/f2/Inos_mother.png"
+          ],
+          "family": {
+            "daughter": "Ino Yamanaka",
+            "grandson": "Inojin Yamanaka",
+            "husband": "Inoichi Yamanaka"
+          },
+          "personal": {
+            "sex": "Female",
+            "affiliation": "Konohagakure",
+            "team": "Allied Mothers Force",
+            "clan": "Yamanaka"
+          },
+          "voiceActors": {
+            "japanese": "Noriko Suzuki",
+            "english": "Colleen Villard"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Allied Mothers Force  (Anime only)",
+      "characters": [
+        {
+          "id": 880,
+          "name": "Yoshino Nara",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/9/9f/Yoshino_Nara.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #182",
+            "anime": "Naruto Episode #110",
+            "movie": "Naruto the Movie: Blood Prison",
+            "appearsIn": "Anime, Manga, Movie"
+          },
+          "family": {
+            "son": "Shikamaru Nara",
+            "grandson": "Shikadai Nara",
+            "husband": "Shikaku Nara"
+          },
+          "jutsu": ["Frying Pan Attack (Anime only)"],
+          "personal": {
+            "birthdate": "February 24",
+            "sex": "Female",
+            "age": {
+              "Part I": "36"
+            },
+            "height": {
+              "Part I": "162.1cm"
+            },
+            "weight": {
+              "Part I": "46.2kg"
+            },
+            "bloodType": "A",
+            "occupation": "Housewife",
+            "affiliation": "Konohagakure",
+            "team": "Allied Mothers Force  (Anime only)",
+            "clan": "Nara",
+            "titles": ["奈良ヨシノNaraYoshino"]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Chūnin"
+            },
+            "ninjaRegistration": "009091"
+          },
+          "voiceActors": {
+            "japanese": "Naoko Matsui",
+            "english": "Megan Hollingshead"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ame Orphans",
+      "characters": [
+        {
+          "id": 515,
+          "name": "Jiraiya",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/2/21/Profile_Jiraiya.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #90",
+            "anime": "Naruto Episode #52",
+            "movie": "Naruto the Movie: Ninja Clash in the Land of Snow",
+            "game": "Naruto: Ultimate Ninja 2",
+            "ova": "Finally a clash! Jōnin vs. Genin!! Indiscriminate Grand Melee Tournament Meeting!!",
+            "appearsIn": "Anime, Manga, Game, Movie"
+          },
+          "family": {
+            "clone": "Koji Kashin",
+            "godson": "Naruto Uzumaki"
+          },
+          "jutsu": [
+            "Barrier: Canopy Method Formation",
+            "Barrier: Toad Gourd Prison",
+            "Big Ball Rasengan",
+            "Earth Release: Earth-Style Wall (Anime only)",
+            "Earth Release: Swamp of the Underworld",
+            "Finger Carving Seal",
+            "Fire Release: Big Flame Bullet",
+            "Fire Release: Dragon Fire Technique",
+            "Fire Release: Fire Dragon Flame Bullet (Anime only)",
+            "Fire Release: Flame Bullet",
+            "Fire Release: Toad Oil Flame Bullet",
+            "Fire Sealing Method",
+            "Five Elements Unseal",
+            "Frog Kata",
+            "Hair Needle Senbon",
+            "Hiding in a Toad Technique",
+            "Needle Hell (Anime only)",
+            "Needle Jizō",
+            "Rasengan",
+            "Reverse Summoning Technique (Anime only)",
+            "Sage Art: Goemon",
+            "Sage Mode",
+            "Shadow Clone Technique",
+            "Spiralling Serial Spheres",
+            "Summoning Technique (Toad)",
+            "Summoning: Crushing Toad Stomach (Anime only)",
+            "Summoning: Food Cart Destroyer Technique",
+            "Summoning: Toad Mouth Bind",
+            "Summoning: Toad Shop Technique",
+            "Toad Flatness — Shadow Manipulation Technique",
+            "Toad Oil Bullet",
+            "Transparent Escape Technique",
+            "Turning into a Frog Technique",
+            "Ultra-Big Ball Rasengan",
+            "Water Release: Water Gun (Anime only)",
+            "Wild Lion's Mane Technique"
+          ],
+          "natureType": [
+            "Fire Release",
+            "Wind Release",
+            "Earth Release",
+            "Water Release",
+            "Yin Release",
+            "Yang Release"
+          ],
+          "personal": {
+            "birthdate": "November 11",
+            "sex": "Male",
+            "age": {
+              "Part I": "50–51",
+              "Part II": "54",
+              "Academy Graduate": "6"
+            },
+            "status": "Deceased",
+            "height": {
+              "Part I": "191.2cm"
+            },
+            "weight": {
+              "Part I": "87.5kg"
+            },
+            "bloodType": "B",
+            "classification": ["Sage", "Sannin"],
+            "occupation": "Writer",
+            "affiliation": ["Konohagakure", "Mount Myōboku"],
+            "team": ["Team Hiruzen", "Ame Orphans", "Team Jiraiya"]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Jōnin"
+            },
+            "ninjaRegistration": "002301"
+          },
+          "tools": [
+            "Chakra-Suppressing Seal",
+            "Fūma Shuriken",
+            "Hidden Kunai Mechanism (Anime only)",
+            "Stone Swords"
+          ],
+          "voiceActors": {
+            "japanese": ["Hōchū Ōtsuka", "Tōru Nara   (Child)"],
+            "english": [
+              "David Lodge",
+              "Brad MacDonald   (Child)",
+              "Richard Cansino   (Naruto: Ultimate Ninja)",
+              "Wally Wingert   (Naruto: Ultimate Ninja Heroes 2: The Phantom Fortress)"
+            ]
+          }
+        },
+        {
+          "id": 684,
+          "name": "Konan",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/5/58/Konan_Infobox.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #363",
+            "anime": "Naruto Shippūden Episode #125",
+            "novel": "Akatsuki Hiden: Evil Flowers in Full Bloom",
+            "movie": "Road to Ninja: Naruto the Movie",
+            "game": "Naruto Shippūden: Ultimate Ninja Heroes 3",
+            "ova": "Naruto x UT",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "jutsu": [
+            "Dance of the Shikigami",
+            "Paper Chakram",
+            "Paper Clone",
+            "Paper Drizzle",
+            "Paper Person of God Technique",
+            "Paper Shuriken",
+            "Sensing Technique (Anime only)"
+          ],
+          "natureType": [
+            "Wind Release",
+            "Earth Release",
+            "Water Release",
+            "Yang Release"
+          ],
+          "personal": {
+            "birthdate": "February 20",
+            "sex": "Female",
+            "age": {
+              "Part II": "35"
+            },
+            "status": "Deceased",
+            "height": {
+              "Part II": "169.4cm"
+            },
+            "weight": {
+              "Part II": "45.3kg"
+            },
+            "bloodType": "O",
+            "classification": ["S-rank", "Sensor Type"],
+            "occupation": "Village Head",
+            "affiliation": ["Amegakure", "Akatsuki"],
+            "team": "Ame Orphans",
+            "partner": "Nagato"
+          },
+          "tools": ["Explosive Tag"],
+          "voiceActors": {
+            "japanese": ["Atsuko Tanaka", "Kaori Mine   (Child)"],
+            "english": "Dorothy Elias-Fahn"
+          }
+        },
+        {
+          "id": 861,
+          "name": "Nagato",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/4/46/Nagato.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #372",
+            "anime": "Naruto Shippūden Episode #128",
+            "novel": "Akatsuki Hiden: Evil Flowers in Full Bloom",
+            "movie": "Road to Ninja: Naruto the Movie  (Pain)",
+            "game": "Naruto Shippūden: Ultimate Ninja Heroes 3  (Pain)",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "family": {
+            "mother": "Fusō",
+            "father": "Ise"
+          },
+          "jutsu": [
+            "The Springtime of Youth wiki has an article about this topic:",
+            "Nagato, Pain"
+          ],
+          "natureType": [
+            "Fire Release",
+            "Wind Release",
+            "Lightning Release",
+            "Earth Release",
+            "Water Release",
+            "Yang Release"
+          ],
+          "personal": {
+            "birthdate": "September 19",
+            "sex": "Male",
+            "age": {
+              "Part II": "35"
+            },
+            "status": "Deceased",
+            "height": {
+              "Part II": "175.5cm"
+            },
+            "weight": {
+              "Part II": "40.1kg"
+            },
+            "bloodType": "A",
+            "kekkeiGenkai": "Rinnegan",
+            "classification": ["S-rank", "Sensor Type"],
+            "occupation": ["Akatsuki Leader", "Village Head"],
+            "affiliation": ["Amegakure", "Akatsuki"],
+            "team": "Ame Orphans",
+            "partner": "Konan",
+            "clan": "Uzumaki"
+          },
+          "voiceActors": {
+            "japanese": [
+              "Junpei Morita",
+              "Ken'yū Horiuchi   (Pain)",
+              "Tomoaki Maeno   (Child)",
+              "Shiho Hisajima   (Female Animal Path)"
+            ],
+            "english": [
+              "Vic Mignogna",
+              "Troy Baker   (Pain)",
+              "Matthew Mercer   (Pain (Shippūden episode 454+))",
+              "Dave Wittenberg   (Pain in Episode 135)",
+              "Kari Wahlgren   (Female Animal Path in Ultimate Ninja Storm 2)",
+              "Stephanie Sheh   (Female Animal Path)"
+            ]
+          }
+        },
+        {
+          "id": 1356,
+          "name": "Yahiko",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/7/76/Yahiko.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #372",
+            "anime": "Naruto Shippūden Episode #128",
+            "novel": "Road to Ninja: Naruto the Movie",
+            "movie": "Road to Ninja: Naruto the Movie",
+            "game": "Naruto Shippūden: Ultimate Ninja Heroes 3",
+            "ova": "Naruto x UT",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "jutsu": [
+            "Water Release: Pillar Encirclement (Anime only)",
+            "Water Release: Wild Water Wave"
+          ],
+          "natureType": ["Water Release", "Fire Release", "Wind Release"],
+          "personal": {
+            "birthdate": "February 20",
+            "sex": "Male",
+            "age": {
+              "Part II": "15"
+            },
+            "status": "Deceased",
+            "height": {
+              "Part II": "176.5cm"
+            },
+            "weight": {
+              "Part II": "57.2kg"
+            },
+            "bloodType": "O",
+            "occupation": "Founder and leader of Akatsuki",
+            "affiliation": ["Amegakure", "Akatsuki"],
+            "team": "Ame Orphans"
+          },
+          "tools": ["Sword"],
+          "voiceActors": {
+            "japanese": ["Ken'yū Horiuchi", "Wataru Hatano  (Child)"],
+            "english": [
+              "Troy Baker",
+              "Matthew Mercer   (Shippūden Episode 346+)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Analysis Team",
+      "characters": [
+        {
+          "id": 203,
+          "name": "Mawashi Dokuraku",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/d/d5/Mawashi_Dokuraku.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #418",
+            "anime": "Naruto Shippūden Episode #157",
+            "appearsIn": "Anime, Manga"
+          },
+          "jutsu": ["Psycho Mind Transmission"],
+          "personal": {
+            "sex": "Male",
+            "age": {
+              "Part II": "36"
+            },
+            "affiliation": "Konohagakure",
+            "team": "Analysis Team"
+          },
+          "tools": ["Mind Reading Amplification Machine"]
+        },
+        {
+          "id": 391,
+          "name": "Shimon Hijiri",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/1/1d/Shimon_hijiri.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #40",
+            "anime": "Naruto Episode #21",
+            "game": "Naruto Mobile",
+            "appearsIn": "Anime, Manga, Game"
+          },
+          "jutsu": ["Psycho Mind Transmission"],
+          "personal": {
+            "sex": "Male",
+            "age": {
+              "Part I": "26"
+            },
+            "height": {
+              "Part I": "175cm"
+            },
+            "occupation": "Chūnin Exams Assistant",
+            "affiliation": "Konohagakure",
+            "team": "Analysis Team"
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Chūnin"
+            }
+          },
+          "tools": ["Mind Reading Amplification Machine"],
+          "voiceActors": {
+            "japanese": ["Isshin Chiba", "Hidenori Takahashi   (Part II)"],
+            "english": "Richard Cansino"
+          }
+        },
+        {
+          "id": 706,
+          "name": "Kumadori",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/6/6d/Kumadori.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #406",
+            "anime": "Naruto Shippūden Episode #154",
+            "game": "Naruto: Ultimate Ninja Online",
+            "appearsIn": "Anime, Manga, Game"
+          },
+          "personal": {
+            "sex": "Male",
+            "age": {
+              "Part II": "26"
+            },
+            "classification": "Medical-nin",
+            "affiliation": "Konohagakure",
+            "team": ["Medic Corps", "Analysis Team"]
+          },
+          "voiceActors": {
+            "japanese": "Yōji Ueda",
+            "english": "Doug Stone"
+          }
+        },
+        {
+          "id": 948,
+          "name": "Oyone",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/1/19/Oyone.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #406",
+            "anime": "Naruto Shippūden Episode #154",
+            "game": "Naruto: Ultimate Ninja Online",
+            "appearsIn": "Anime, Manga, Game"
+          },
+          "personal": {
+            "sex": "Female",
+            "classification": "Medical-nin",
+            "affiliation": "Konohagakure",
+            "team": ["Medic Corps", "Analysis Team"]
+          }
+        },
+        {
+          "id": 964,
+          "name": "Ranka",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/d/da/Ranka1.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #489",
+            "anime": "Naruto Shippūden Episode #197",
+            "game": "Naruto Shippūden: Ultimate Ninja Storm 3",
+            "appearsIn": "Anime, Manga, Game"
+          },
+          "personal": {
+            "sex": "Male",
+            "age": {
+              "Part II": "28"
+            },
+            "affiliation": ["Konohagakure", "Allied Shinobi Forces"],
+            "team": ["Analysis Team", "Infiltration and Reconnaissance Party"]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part II": "Chūnin"
+            }
+          },
+          "voiceActors": {
+            "japanese": "Taira Kikumoto",
+            "english": "Richard Cansino"
+          }
+        },
+        {
+          "id": 1232,
+          "name": "Tonbo Tobitake",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/d/db/Tonbo_Tobitake.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #40",
+            "anime": "Naruto Episode #3",
+            "movie": "Naruto the Movie: Blood Prison",
+            "game": "Naruto Mobile",
+            "ova": "The Day Naruto Became Hokage (OVA)",
+            "appearsIn": "Anime, Manga, Game, Movie"
+          },
+          "jutsu": ["Psycho Mind Transmission"],
+          "personal": {
+            "birthdate": "April 4",
+            "sex": "Male",
+            "age": {
+              "Part I": "27",
+              "Part II": "31"
+            },
+            "height": {
+              "Part I": "167cm"
+            },
+            "weight": {
+              "Part I": "55kg"
+            },
+            "bloodType": "A",
+            "occupation": "Chūnin Exams Assistant",
+            "affiliation": "Konohagakure",
+            "team": "Analysis Team"
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Chūnin"
+            },
+            "ninjaRegistration": "010997"
+          },
+          "tools": ["Mind Reading Amplification Machine"],
+          "voiceActors": {
+            "japanese": "Shōto Kashii",
+            "english": [
+              "Stephen Apostolina   (Part I; Episode 24)",
+              "Bob Joles   (Part I; Episode 146)",
+              "Derek Stephen Prince   (Part II)"
+            ]
+          }
+        },
+        {
+          "id": 1365,
+          "name": "Ino Yamanaka",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/d/dd/Ino.png",
+            "https://static.wikia.nocookie.net/naruto/images/8/89/Ino2.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #34",
+            "anime": "Naruto Episode #1",
+            "novel": "Kakashi Hiden: Lightning in the Icy Sky",
+            "movie": "Naruto Shippūden the Movie",
+            "game": "Naruto: Konoha Ninpōchō",
+            "ova": "Hidden Leaf Village Grand Sports Festival!",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "family": {
+            "father": "Inoichi Yamanaka",
+            "mother": "Ino's Mother",
+            "son": "Inojin Yamanaka",
+            "husband": "Sai Yamanaka"
+          },
+          "jutsu": [
+            "Chakra Hair Trap Technique",
+            "Chakra Transfer Technique (Anime only)",
+            "Earth Release: Practice Brick Technique",
+            "Formation Ino–Shika–Chō",
+            "Four-Corner Sealing Barrier (Anime only)",
+            "Human Bullet Yo-Yo",
+            "Mind Body Disturbance Technique (Anime only)",
+            "Mind Body Switch Technique",
+            "Mind Body Transmission Technique",
+            "Mind Clone Switch Technique",
+            "Mystical Palm Technique",
+            "Psycho Mind Transmission (Anime only)",
+            "Sensing Technique",
+            "Sensing Transmission"
+          ],
+          "natureType": [
+            "Earth Release",
+            "Water Release",
+            "Fire Release  (Anime only)",
+            "Yin Release",
+            "Yang Release"
+          ],
+          "personal": {
+            "birthdate": "September 23",
+            "sex": "Female",
+            "age": {
+              "Part I": "12–13",
+              "Part II": "16–17",
+              "Academy Graduate": "12",
+              "Chunin Promotion": "14"
+            },
+            "height": {
+              "Part I": "149.3cm - 151.2cm",
+              "Part II": "162.2cm",
+              "Blank Period": "165cm"
+            },
+            "weight": {
+              "Part I": "38.2kg - 38.5kg",
+              "Part II": "46kg"
+            },
+            "bloodType": "B",
+            "classification": ["Sensor Type", "Medical-nin"],
+            "occupation": ["Florist", "Leader of the Konoha Barrier Team"],
+            "affiliation": ["Konohagakure", "Allied Shinobi Forces"],
+            "team": [
+              "Team 10",
+              "Konoha 11  (Anime only)",
+              "Kaima Capture Team  (Anime only)",
+              "Twenty Platoons",
+              "Team Three  (Anime only)",
+              "Fifth Division",
+              "Ino–Saku–Sai  (Novel only)",
+              "Konoha Barrier Team",
+              "Analysis Team"
+            ],
+            "clan": "Yamanaka"
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Genin",
+              "Part II": "Chūnin"
+            },
+            "ninjaRegistration": "012604"
+          },
+          "tools": [
+            "Chakra Transmission Communication Device",
+            "Makibishi (Anime only)",
+            "Tantō"
+          ],
+          "voiceActors": {
+            "japanese": "Ryōka Yuzuki",
+            "english": [
+              "Colleen Villard",
+              "Stephanie Sheh   (Naruto Shippūden: Ultimate Ninja Impact)"
+            ]
+          }
+        },
+        {
+          "id": 1367,
+          "name": "Inoichi Yamanaka",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/d/d2/Inoichi_Yamanaka.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #137",
+            "anime": "Naruto Episode #59",
+            "movie": "Naruto the Movie: Blood Prison",
+            "game": "Naruto: Ultimate Ninja 2",
+            "ova": "Hidden Leaf Village Grand Sports Festival!",
+            "appearsIn": "Anime, Manga, Game, Movie"
+          },
+          "family": {
+            "daughter": "Ino Yamanaka",
+            "grandson": "Inojin Yamanaka",
+            "wife": "Ino's Mother"
+          },
+          "jutsu": [
+            "Formation Ino–Shika–Chō",
+            "Mind Body Disturbance Technique",
+            "Mind Body Switch Technique",
+            "Mind Body Transmission Technique",
+            "Mind Disturbance Dance Performance Technique (Anime only)",
+            "Psycho Mind Transmission",
+            "Sensing Technique",
+            "Sensing Water Sphere"
+          ],
+          "natureType": ["Water Release"],
+          "personal": {
+            "birthdate": "January 24",
+            "sex": "Male",
+            "age": {
+              "Part I": "38",
+              "Part II": "42"
+            },
+            "status": "Deceased",
+            "height": {
+              "Part I": "180.4cm"
+            },
+            "weight": {
+              "Part I": "69.1kg"
+            },
+            "bloodType": "AB",
+            "classification": "Sensor Type",
+            "occupation": [
+              "Head of the Yamanaka Clan",
+              "Head of the Analysis Team",
+              "Proprietor of Yamanaka Flowers",
+              "Captain of the Intelligence Division of the Allied Shinobi Forces"
+            ],
+            "affiliation": ["Konohagakure", "Allied Shinobi Forces"],
+            "team": ["Ino–Shika–Chō", "Analysis Team", "Intelligence Division"],
+            "clan": "Yamanaka"
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Jōnin"
+            },
+            "ninjaRegistration": "005492"
+          },
+          "tools": [
+            "Chakra Transmission Communication Device",
+            "Mind Reading Amplification Machine"
+          ],
+          "voiceActors": {
+            "japanese": "Daiki Nakamura",
+            "english": "Kyle Hebert"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "A–B Combo",
+      "characters": [
+        {
+          "id": 6,
+          "name": "A (Fourth Raikage)",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/4/4c/Fourth_Raikage_2.png",
+            "https://static.wikia.nocookie.net/naruto/images/4/4b/A_Part_III.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #416",
+            "anime": "Naruto Shippūden Episode #152",
+            "novel": "Kakashi Hiden: Lightning in the Icy Sky",
+            "movie": "Naruto the Movie: Blood Prison",
+            "game": "Naruto Shippūden: Gekitō Ninja Taisen! Special",
+            "ova": "Naruto Shippūden: UNSG anime cutscenes",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "family": {
+            "father": "A",
+            "adoptive brother": "Killer B",
+            "cousin": "Blue B"
+          },
+          "jutsu": [
+            "Body Flicker Technique",
+            "Drop Kick (Anime only)",
+            "Elbow",
+            "Guillotine Drop",
+            "Iron Claw",
+            "Liger Bomb",
+            "Lightning Oppression Horizontal",
+            "Lightning Oppression Horizontal Chop",
+            "Lightning Release Chakra Mode",
+            "Lightning Release: Double Lariat",
+            "Lightning Release: Lariat",
+            "Lightning Straight",
+            "Lightning Water Dragon Bullet"
+          ],
+          "natureType": ["Lightning Release", "Earth Release", "Water Release"],
+          "personal": {
+            "birthdate": "June 1",
+            "sex": "Male",
+            "age": {
+              "Part II": "47"
+            },
+            "height": {
+              "Part II": "198.2cm"
+            },
+            "weight": {
+              "Part II": "101.1kg"
+            },
+            "bloodType": "A",
+            "occupation": [
+              "Raikage",
+              "Supreme Leader of the Allied Shinobi Forces"
+            ],
+            "affiliation": ["Kumogakure", "Allied Shinobi Forces"],
+            "team": ["Eight-Tails Subduing Team", "A–B Combo"],
+            "partner": "Killer B"
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part II": "Kage"
+            },
+            "ninjaRegistration": "CL2211"
+          },
+          "tools": ["Chakra Cannon", "Vambraces"],
+          "voiceActors": {
+            "japanese": "Hideaki Tezuka",
+            "english": "Beau Billingslea"
+          }
+        },
+        {
+          "id": 636,
+          "name": "Killer B",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/6/63/Killer_B.png",
+            "https://static.wikia.nocookie.net/naruto/images/3/30/Killer_B_Part_III.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #408",
+            "anime": "Naruto Shippūden Episode #142",
+            "novel": "The Last: Naruto the Movie",
+            "movie": "Naruto the Movie: Blood Prison",
+            "game": "Naruto Shippūden: Ultimate Ninja Storm 2",
+            "ova": "Naruto Shippūden: UNSG anime cutscenes",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "family": {
+            "adoptive father": "A",
+            "adoptive brother": "A",
+            "adoptive cousin": "Blue B"
+          },
+          "jutsu": [
+            "Acrobat",
+            "Cloud-Style Deception Beheading (Anime only)",
+            "Continuous Tailed Beast Balls",
+            "Disturbance Taijutsu",
+            "Headbutt",
+            "Ink Clone Technique",
+            "Ink Creation",
+            "Lightning Release: Double Lariat",
+            "Lightning Release: Lariat",
+            "Octopus Leg Clone Technique",
+            "Reverse Mist Beheading (Anime only)",
+            "Sealing Technique: Octopus Hold",
+            "Shadow Clone Technique (Anime only)",
+            "Tailed Beast Ball",
+            "Tailed Beast Chakra Arms",
+            "Tailed Beast Eight Twists",
+            "Tailed Beast Full Charge",
+            "Tailed Beast Lariat"
+          ],
+          "natureType": [
+            "Lightning Release",
+            "Water Release",
+            "Fire Release",
+            "Yang Release"
+          ],
+          "personal": {
+            "birthdate": "May 15",
+            "sex": "Male",
+            "age": {
+              "Part II": "36"
+            },
+            "height": {
+              "Part II": "192cm",
+              "Gaiden": "190cm"
+            },
+            "weight": {
+              "Part II": "87.1kg"
+            },
+            "bloodType": "B",
+            "classification": "Jinchūriki",
+            "tailedBeast": "Gyūki (Forms)",
+            "occupation": "Guardian of Kumogakure",
+            "affiliation": ["Kumogakure", "Allied Shinobi Forces"],
+            "team": ["A–B Combo", "Kumo Council"],
+            "partner": "A",
+            "titles": ["キラービーKirāBī", "killerBee"]
+          },
+          "rank": {
+            "ninjaRegistration": "CL3288"
+          },
+          "tools": [
+            "Chakra Cannon",
+            "Samehada",
+            "Supervibrato Lightning Release Swords"
+          ],
+          "voiceActors": {
+            "japanese": ["Hisao Egawa", "Mariko Higashiuchi   (Child)"],
+            "english": [
+              "Catero Colbert",
+              "Reno Wilson  (Naruto Shippūden: Ultimate Ninja Storm 2)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Bikōchū Search Team  (Anime only)",
+      "characters": [
+        {
+          "id": 13,
+          "name": "Shino Aburame",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/9/9c/Shino.png",
+            "https://static.wikia.nocookie.net/naruto/images/e/e1/Shino_Aburame_P2.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #34",
+            "anime": "Naruto Episode #1",
+            "novel": "Kakashi Hiden: Lightning in the Icy Sky",
+            "movie": "Naruto Shippūden the Movie: Bonds",
+            "game": "Naruto: Konoha Ninpōchō",
+            "ova": "Hidden Leaf Village Grand Sports Festival!",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "family": {
+            "father": "Shibi Aburame",
+            "adoptive brother": "Torune Aburame"
+          },
+          "jutsu": [
+            "Human Cocoon Technique (Anime only)",
+            "Insect Clone Technique",
+            "Insect Jamming Technique",
+            "Insect Jar Technique (Anime only)",
+            "Insect Rope Technique (Anime only)",
+            "Iron Mountain Leaning (Anime only)",
+            "Manipulated Shuriken Technique (Anime only)",
+            "Parasitic Destruction Insect Technique (Giant Insect, Kidaichū, Kikaichū)",
+            "Parasitic Giant Insect — Bug Bite",
+            "Secret Technique: Insect Cocoon (Anime only)",
+            "Secret Technique: Insect Gathering (Anime only)",
+            "Secret Technique: Insect Sphere",
+            "Secret Technique: Insect Tornado (Anime only)",
+            "Secret Technique: Insect Wall (Anime only)",
+            "Spindle Formation (Anime only)",
+            "Summoning Technique (Giant Insect, Kidaichū, Kikaichū)"
+          ],
+          "natureType": ["Earth Release", "Fire Release", "Yang Release"],
+          "personal": {
+            "birthdate": "January 23",
+            "sex": "Male",
+            "age": {
+              "Part I": "12–13",
+              "Part II": "16–17",
+              "Academy Graduate": "12",
+              "Chunin Promotion": "14"
+            },
+            "height": {
+              "Part I": "156.2cm - 161.1cm",
+              "Part II": "175.1cm",
+              "Blank Period": "182cm",
+              "Gaiden": "186.5cm"
+            },
+            "weight": {
+              "Part I": "45.8kg - 48.5kg",
+              "Part II": "56.6kg"
+            },
+            "bloodType": "AB",
+            "occupation": [
+              "Academy Teacher",
+              "Chūnin Exams Proctor",
+              "Genin Exams Proctor  (Anime only)"
+            ],
+            "affiliation": ["Konohagakure", "Allied Shinobi Forces"],
+            "team": [
+              "Team 8",
+              "Konoha 11  (Anime only)",
+              "Bikōchū Search Team  (Anime only)",
+              "Kaima Capture Team  (Anime only)",
+              "Eight Man Squad",
+              "Team One  (Anime only)",
+              "Fifth Division"
+            ],
+            "clan": "Aburame"
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Genin",
+              "Part II": "Chūnin"
+            },
+            "ninjaRegistration": "012618"
+          },
+          "tools": ["Sealing Tag (Anime only)", "Wire Strings (Anime only)"],
+          "voiceActors": {
+            "japanese": "Shinji Kawada",
+            "english": [
+              "Sam Riegel   (Episodes 23-24)",
+              "Derek Stephen Prince   (Episode 34+)"
+            ]
+          }
+        },
+        {
+          "id": 29,
+          "name": "Akamaru",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/0/09/Akamaru_p1.png",
+            "https://static.wikia.nocookie.net/naruto/images/0/06/Akamaru_part_II.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #39",
+            "anime": "Naruto Episode #23",
+            "novel": "Kakashi Hiden: Lightning in the Icy Sky",
+            "movie": "Naruto Shippūden the Movie: The Will of Fire",
+            "game": "Naruto: Konoha Ninpōchō",
+            "ova": "Hidden Leaf Village Grand Sports Festival!",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "jutsu": [
+            "Beast Human Clone",
+            "Combination Transformation",
+            "Dynamic Marking",
+            "Fang Passing Fang",
+            "Fang Rotating Fang",
+            "Fang Wolf Fang",
+            "Human Beast Combination Transformation: Double-Headed Wolf",
+            "Human Beast Mixture Transformation — Three-Headed Wolf",
+            "Passing Fang",
+            "Super Fang Wolf Fang (Anime only)",
+            "Tail Chasing Fang Fang Rotating Fang"
+          ],
+          "personal": {
+            "birthdate": "July 7",
+            "sex": "Male",
+            "species": "Ninken",
+            "age": {
+              "Part I": "3–4",
+              "Part II": "7–8"
+            },
+            "height": {
+              "Part I": "28cm - 29.1cm",
+              "Part II": "127.2cm"
+            },
+            "weight": {
+              "Part I": "5.1kg - 5.3kg",
+              "Part II": "80.5kg"
+            },
+            "affiliation": ["Konohagakure", "Allied Shinobi Forces"],
+            "team": [
+              "Team 8",
+              "Konoha 11  (Anime only)",
+              "Sasuke Recovery Team",
+              "Bikōchū Search Team  (Anime only)",
+              "Team Two  (Anime only)",
+              "Eight Man Squad",
+              "Fifth Division"
+            ],
+            "partner": "Kiba Inuzuka",
+            "clan": "Inuzuka"
+          },
+          "tools": ["Military Rations Pill"],
+          "voiceActors": {
+            "japanese": ["Junko Takeuchi", "Kōsuke Toriumi   (Man-Beast Form)"],
+            "english": ["Jamie Simone", "Kyle Hebert   (Man-Beast Form)"]
+          }
+        },
+        {
+          "id": 437,
+          "name": "Hinata Hyūga",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/9/97/Hinata.png",
+            "https://static.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #34",
+            "anime": "Naruto Episode #1",
+            "novel": "Naruto: Innocent Heart, Demonic Blood",
+            "movie": "Naruto Shippūden the Movie",
+            "game": "Naruto: Konoha Ninpōchō",
+            "ova": "Hidden Leaf Village Grand Sports Festival!",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "family": {
+            "grandfather": "Hyūga Elder",
+            "father": "Hiashi Hyūga",
+            "uncle": "Hizashi Hyūga",
+            "cousin": "Neji Hyūga",
+            "mother ": "Hinata and Hanabi's Mother",
+            "sister": "Hanabi Hyūga",
+            "son": "Boruto Uzumaki",
+            "daughter": "Himawari Uzumaki",
+            "husband": "Naruto Uzumaki",
+            "adoptive son": "Kawaki"
+          },
+          "jutsu": [
+            "Chakra Transfer Technique",
+            "Eight Trigrams Sixty-Four Palms",
+            "Eight Trigrams Thirty-Two Palms (Anime only)",
+            "Eight Trigrams Twin Lions Crumbling Attack",
+            "Eight Trigrams Vacuum Palm",
+            "Eight Trigrams Vacuum Wall Palm",
+            "Four-Corner Sealing Barrier (Anime only)",
+            "Gentle Fist",
+            "Gentle Step Spiralling Twin Lion Fists",
+            "Gentle Step Twin Lion Fists",
+            "Mystical Palm Technique (Anime only)",
+            "Palm Bottom",
+            "Protecting Eight Trigrams Sixty-Four Palms (Anime only)",
+            "Water Needle (Anime only)"
+          ],
+          "natureType": ["Fire Release", "Lightning Release"],
+          "personal": {
+            "birthdate": "December 27",
+            "sex": "Female",
+            "age": {
+              "Part I": "12–13",
+              "Part II": "16",
+              "Academy Graduate": "12",
+              "Chunin Promotion": "14"
+            },
+            "height": {
+              "Part I": "147.3cm - 148.3cm",
+              "Part II": "160cm",
+              "Blank Period": "163cm"
+            },
+            "weight": {
+              "Part I": "37.9kg - 38.2kg",
+              "Part II": "45kg"
+            },
+            "bloodType": "A",
+            "kekkeiGenkai": "Byakugan",
+            "occupation": "Heiress of the Hyūga Clan  (Former)",
+            "affiliation": ["Konohagakure", "Allied Shinobi Forces"],
+            "team": [
+              "Team 8",
+              "Konoha 11  (Anime only)",
+              "Bikōchū Search Team  (Anime only)",
+              "Peddlers Escort Team  (Anime only)",
+              "Team Three  (Anime only)",
+              "Eight Man Squad",
+              "Second Division",
+              "Hanabi Rescue Team  (Movie only)"
+            ],
+            "clan": ["Hyūga", "Uzumaki Clan"]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Genin",
+              "Part II": "Chūnin"
+            },
+            "ninjaRegistration": "012612"
+          },
+          "tools": ["Hyūga Clan Secret Ointment"],
+          "voiceActors": {
+            "japanese": "Nana Mizuki",
+            "english": "Stephanie Sheh"
+          }
+        },
+        {
+          "id": 466,
+          "name": "Kiba Inuzuka",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/0/03/Kiba.png",
+            "https://static.wikia.nocookie.net/naruto/images/c/cb/Kiba_Part_2.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #34",
+            "anime": "Naruto Episode #1",
+            "novel": "Kakashi Hiden: Lightning in the Icy Sky",
+            "movie": "Naruto Shippūden the Movie",
+            "game": "Naruto: Konoha Ninpōchō",
+            "ova": "Hidden Leaf Village Grand Sports Festival!",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "family": {
+            "mother": "Tsume Inuzuka",
+            "sister": "Hana Inuzuka",
+            "lover": "Tamaki"
+          },
+          "jutsu": [
+            "Beast Human Clone",
+            "Booby Trap",
+            "Combination Transformation",
+            "Fang Passing Fang",
+            "Fang Rotating Fang",
+            "Fang Wolf Fang",
+            "Four Legs Technique",
+            "Human Beast Combination Transformation: Double-Headed Wolf",
+            "Human Beast Mixture Transformation — Three-Headed Wolf",
+            "Passing Fang",
+            "Shadow Clone Technique",
+            "Super Fang Wolf Fang (Anime only)",
+            "Tail Chasing Fang Fang Rotating Fang"
+          ],
+          "natureType": ["Earth Release", "Yang Release"],
+          "personal": {
+            "birthdate": "July 7",
+            "sex": "Male",
+            "age": {
+              "Part I": "12–13",
+              "Part II": "16–17",
+              "Academy Graduate": "12",
+              "Chunin Promotion": "14"
+            },
+            "height": {
+              "Part I": "151.2cm - 152.5cm",
+              "Part II": "169.1cm",
+              "Blank Period": "173cm"
+            },
+            "weight": {
+              "Part I": "43.3kg - 44.7kg",
+              "Part II": "52.5kg"
+            },
+            "bloodType": "B",
+            "occupation": [
+              "Dog Breeder  (Anime Only)",
+              "Police Officer  (Anime Only)"
+            ],
+            "affiliation": ["Konohagakure", "Allied Shinobi Forces"],
+            "team": [
+              "Team 8",
+              "Sasuke Recovery Team",
+              "Konoha 11  (Anime only)",
+              "Bikōchū Search Team  (Anime only)",
+              "Team Two  (Anime only)",
+              "Eight Man Squad",
+              "Fifth Division",
+              "Konoha Military Police Force  (Anime Only)"
+            ],
+            "partner": "Akamaru",
+            "clan": "Inuzuka",
+            "titles": ["犬塚キバInuzukaKiba"]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Genin",
+              "Part II": "Chūnin"
+            },
+            "ninjaRegistration": "012620"
+          },
+          "tools": ["Military Rations Pill"],
+          "voiceActors": {
+            "japanese": "Kōsuke Toriumi",
+            "english": ["Kyle Hebert", "Doug Erholtz   (Episode 3)"]
+          }
+        },
+        {
+          "id": 1344,
+          "name": "Naruto Uzumaki",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/d/d6/Naruto_Part_I.png",
+            "https://static.wikia.nocookie.net/naruto/images/7/7d/Naruto_Part_II.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #1",
+            "anime": "Naruto Episode #1",
+            "novel": "Naruto: Innocent Heart, Demonic Blood",
+            "movie": "Naruto the Movie: Ninja Clash in the Land of Snow",
+            "game": "Naruto: Konoha Ninpōchō",
+            "ova": "Find the Four-Leaf Red Clover!",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "family": {
+            "father": "Minato Namikaze",
+            "mother": "Kushina Uzumaki",
+            "son": "Boruto Uzumaki",
+            "daughter": "Himawari Uzumaki",
+            "wife": "Hinata Uzumaki",
+            "adoptive son": "Kawaki",
+            "godfather": "Jiraiya"
+          },
+          "jutsu": [
+            "All Directions Shuriken",
+            "Baryon Mode",
+            "Big Ball Rasengan",
+            "Big Ball Rasenshuriken",
+            "Big Ball Spiralling Serial Zone Spheres",
+            "Boil Release: Unrivalled Strength",
+            "Chakra Transfer Technique",
+            "Clone Body Blow",
+            "Clone Flying Arrow",
+            "Clone Spinning Heel Drop (Anime only)",
+            "Combination Transformation",
+            "Continuous Tailed Beast Balls",
+            "Crescent Moon Rasengan",
+            "Earth Release: Earth-Style Wall",
+            "Erupting Propulsion Fist",
+            "Fire Release: Toad Oil Flame Bullet (Anime only)",
+            "Frog Kata",
+            "Frog Strike",
+            "Gelel Rasengan",
+            "Gentle Step Spiralling Twin Lion Fists",
+            "Guts Rasengan",
+            "Harem Technique",
+            "Hurricane Thunderclap — Majestic Attire Sword Stroke",
+            "Ink Creation",
+            "Kurama Arm Attack",
+            "Mini-Rasenshuriken",
+            "Multiple Shadow Clone Technique",
+            "Naruto Region Combo",
+            "Naruto Uzumaki Combo",
+            "Naruto Uzumaki Two Thousand Combo",
+            "Naruto and Shion's Super Chakra Rasengan",
+            "Negative Emotions Sensing",
+            "New Sexy Technique",
+            "Nine-Tails Chakra Mode",
+            "Ninja Art: Bare-Handed Blade Block",
+            "One Thousand Years of Death",
+            "Pachinko Technique (Anime only)",
+            "Parachute",
+            "Parent and Child Rasengan",
+            "Planetary Rasengan",
+            "Rasengan",
+            "Rasengan: Flash",
+            "Regeneration Ability",
+            "Runt Ball Rasengan (Anime only)",
+            "Sage Art: Lava Release Rasenshuriken",
+            "Sage Art: Magnet Release Rasengan",
+            "Sage Art: Many Ultra-Big Ball Spiralling Serial Spheres",
+            "Sage Art: Super Tailed Beast Rasenshuriken",
+            "Sage Mode",
+            "Scorch Release: Halo Hurricane Jet Black Arrow Style Zero",
+            "Seven-Coloured Rasengan",
+            "Sexy Reverse Harem Technique",
+            "Sexy Technique",
+            "Sexy Technique: Pole Dance and Nice Body (Anime only)",
+            "Shadow Clone Technique",
+            "Shadow Shuriken Technique",
+            "Shuriken Shadow Clone Technique (Anime only)",
+            "Six Paths Sage Mode",
+            "Six Paths Senjutsu",
+            "Six Paths Yang Power",
+            "Six Paths — Chibaku Tensei",
+            "Six Paths: Ultra-Big Ball Rasenshuriken",
+            "Soap Bubble Ninjutsu (Anime only)",
+            "Spiralling Absorption Sphere",
+            "Spiralling Serial Spheres",
+            "Spiralling Strife Spheres",
+            "Strong Fist (Anime only)",
+            "Summoning Technique (Toad)",
+            "Summoning: Food Cart Destroyer Technique",
+            "Super Mini-Tailed Beast Ball",
+            "Super-Ultra-Big Ball Rasengan",
+            "Supreme Ultimate Rasengan",
+            "Tailed Beast Ball",
+            "Tailed Beast Ball Rasenshuriken",
+            "Tailed Beast Chakra Arms",
+            "Tailed Beast Full Charge",
+            "Tailed Beast Rasengan",
+            "Tailed Beast Shockwave",
+            "Torii Seal",
+            "Tornado Rasengan",
+            "Truth-Seeking Ball",
+            "Turning into a Frog Technique (Anime only)",
+            "Typhoon Water Vortex Technique",
+            "Ultra-Big Ball Rasengan",
+            "Ultra-Many Spiralling Serial Spheres",
+            "Uzumaki Formation (Anime only)",
+            "Wind Release: Rasengan",
+            "Wind Release: Rasenshuriken",
+            "Wind Release: Repeated Rasenshuriken",
+            "Wind Release: Toad Gun (Anime only)",
+            "Wind Release: Toad Oil Bullet (Anime only)",
+            "Wind Release: Toad Oil Flame Bullet (Anime only)",
+            "Wind Release: Ultra-Big Ball Rasenshuriken",
+            "Wisdom Wolf Decay"
+          ],
+          "natureType": [
+            "Wind Release  (Affinity)",
+            "Lightning Release",
+            "Earth Release",
+            "Water Release",
+            "Fire Release",
+            "Lava Release",
+            "Magnet Release",
+            "Boil Release",
+            "Yin Release",
+            "Yang Release",
+            "Yin–Yang Release"
+          ],
+          "personal": {
+            "birthdate": "October 10",
+            "sex": "Male",
+            "age": {
+              "Part I": "12–13",
+              "Part II": "15–17",
+              "Academy Graduate": "12"
+            },
+            "height": {
+              "Part I": "145.3cm - 147.5cm",
+              "Part II": "166cm",
+              "Blank Period": "180cm"
+            },
+            "weight": {
+              "Part I": "40.1kg - 40.6kg",
+              "Part II": "50.9kg"
+            },
+            "bloodType": "B",
+            "kekkeiGenkai": ["Lava Release", "Magnet Release", "Boil Release"],
+            "classification": ["Jinchūriki", "Sage", "Sensor Type"],
+            "tailedBeast": "Shukaku, Matatabi, Isobu, Son Gokū, Kokuō, Saiken, Chōmei, Gyūki, Kurama (Forms)",
+            "occupation": ["Hokage", "Chūnin Exams Proctor  (Anime only)"],
+            "affiliation": [
+              "Konohagakure",
+              "Mount Myōboku",
+              "Allied Shinobi Forces"
+            ],
+            "team": [
+              "Team Kakashi",
+              "Sasuke Recovery Team",
+              "Konoha 11  (Anime only)",
+              "Bikōchū Search Team  (Anime only)",
+              "Kaima Capture Team  (Anime only)",
+              "Star Guard Team  (Anime only)",
+              "Peddlers Escort Team  (Anime only)",
+              "Kazekage Rescue Team",
+              "Team One  (Anime only)",
+              "Eight Man Squad",
+              "Hanabi Rescue Team  (Movie only)"
+            ],
+            "clan": "Uzumaki",
+            "titles": [
+              "うずまきナルトUzumakiNaruto",
+              "the-off,NumberOneUnpredictable,NoisyNinja(目立ちたがり屋で意外性no.1のドタバタ忍者,MedachitagariyaDeIgaiseiNanbāWanNoDotabataNinja,EnglishTv:NumberOneHyperactive,KnuckleheadNinja)",
+              "childOfTheProphecy(予言の子,YogenNoKo)",
+              "saviourOfThisWorld(この世の救世主,KonoYoNoKyūseishu)",
+              "heroOfTheHiddenLeaf(木ノ葉隠れの英雄,KonohagakureNoEiyū,LiterallyMeaning:HeroOfTheHiddenTreeLeaves)",
+              "boyOfMiracles(奇跡を起こす少年,KisekiOOkosuShōnen)",
+              "konoha'sOrangeHokage(木ノ葉のオレンジ火影,KonohaNoOrenjiHokage,LiterallyMeaning:TreeLeaves'OrangeFireShadow)",
+              "seventhHokage(七代目火影,NanadaimeHokage,LiterallyMeaning:SeventhFireShadow)",
+              "fox(狐,Kitsune)"
+            ]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Genin",
+              "Gaiden": "Kage"
+            },
+            "ninjaRegistration": "012607"
+          },
+          "tools": [
+            "Absorbing Hand",
+            "Bō (Anime only)",
+            "Chakra Blade (Anime only)",
+            "Flying Thunder God Kunai",
+            "Fūma Shuriken",
+            "Hidden Kunai Mechanism",
+            "Konoha Chakra Blade",
+            "Sand",
+            "Stone of Gelel"
+          ],
+          "voiceActors": {
+            "japanese": ["Junko Takeuchi", "Ema Kogure   (Sexy Technique)"],
+            "english": [
+              "Maile Flanagan",
+              "Stephanie Sheh   (Sexy Technique)",
+              "Jeannie Elias   (Sexy Technique) (episode 53-55)",
+              "Mary Elizabeth McGlynn   (Sexy Technique) (episode 177)",
+              "Kate Higgins   (Sexy Technique) (episode 229)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Byakuya Gang",
+      "characters": [
+        {
+          "id": 292,
+          "name": "Gekkō",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/0/00/Gekkou.png"
+          ],
+          "debut": {
+            "anime": "Boruto Episode #43",
+            "appearsIn": "Anime"
+          },
+          "family": {
+            "adoptive son": "Ryōgi"
+          },
+          "jutsu": ["Genjutsu Cursed Seal"],
+          "natureType": ["Yin Release"],
+          "personal": {
+            "sex": "Male",
+            "classification": "Missing-nin",
+            "affiliation": "Land of Snow",
+            "team": "Byakuya Gang",
+            "titles": ["ゲッコウGekkō"]
+          },
+          "tools": ["Sword"],
+          "voiceActors": {
+            "japanese": "Tetsu Inada",
+            "english": "D.C. Douglas"
+          }
+        },
+        {
+          "id": 917,
+          "name": "Oko",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/7/77/Oko.png"
+          ],
+          "debut": {
+            "anime": "Boruto Episode #44",
+            "appearsIn": "Anime"
+          },
+          "jutsu": ["Fire Release: Fox Fire"],
+          "natureType": ["Fire Release"],
+          "personal": {
+            "sex": "Male",
+            "affiliation": "Land of Snow",
+            "team": "Byakuya Gang"
+          },
+          "voiceActors": {
+            "japanese": "Shinya Takahashi",
+            "english": "Ray Chase"
+          }
+        },
+        {
+          "id": 986,
+          "name": "Ryōgi",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/b/b9/Ryougi.png"
+          ],
+          "debut": {
+            "anime": "Boruto Episode #43",
+            "appearsIn": "Anime"
+          },
+          "family": {
+            "adoptive father": "Gekkō"
+          },
+          "jutsu": [
+            "Ice Release: Crystal Wall",
+            "Ice Release: Frozen Capturing Field",
+            "Ice Release: Ten Thousand Ice Petals",
+            "Ice Release: Whirlwind"
+          ],
+          "natureType": ["Ice Release", "Wind Release", "Water Release"],
+          "personal": {
+            "sex": "Male",
+            "kekkeiGenkai": "Ice Release",
+            "affiliation": "Land of Snow",
+            "team": "Byakuya Gang"
+          },
+          "voiceActors": {
+            "japanese": "Yūsuke Kobayashi",
+            "english": "Johnny Yong Bosch"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Communications Team",
+      "characters": [
+        {
+          "id": 199,
+          "name": "Dodai",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/9/92/Dodai_HDshot.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #541",
+            "anime": "Naruto Shippūden Episode #282",
+            "game": "Naruto Shippūden: Ultimate Ninja Storm Revolution",
+            "appearsIn": "Anime, Manga, Game"
+          },
+          "jutsu": [
+            "Lava Release: Rubber Ball",
+            "Lava Release: Rubber Defence",
+            "Lava Release: Rubber Rope",
+            "Lava Release: Rubber Wall"
+          ],
+          "natureType": ["Lava Release", "Fire Release", "Earth Release"],
+          "personal": {
+            "birthdate": "October 23",
+            "sex": "Male",
+            "age": {
+              "Part II": "54"
+            },
+            "height": {
+              "Part II": "176.5cm"
+            },
+            "weight": {
+              "Part II": "78.9kg"
+            },
+            "bloodType": "O",
+            "kekkeiGenkai": "Lava Release",
+            "occupation": "Raikage Attendant",
+            "affiliation": ["Kumogakure", "Allied Shinobi Forces"],
+            "team": ["Fourth Division", "Communications Team"]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part II": "Jōnin"
+            },
+            "ninjaRegistration": "CL1532"
+          },
+          "voiceActors": {
+            "japanese": "Shinobu Matsumoto",
+            "english": "Todd Haberkorn"
+          }
+        },
+        {
+          "id": 1186,
+          "name": "Tango",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/9/91/Tango.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #515",
+            "anime": "Naruto Shippūden Episode #261",
+            "appearsIn": "Anime, Manga"
+          },
+          "personal": {
+            "sex": "Male",
+            "age": {
+              "Part II": "27"
+            },
+            "affiliation": ["Kumogakure", "Allied Shinobi Forces"],
+            "team": ["Surprise Attack Division", "Communications Team"]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part II": "Jōnin"
+            }
+          },
+          "tools": ["Chakra Transmission Communication Device"],
+          "voiceActors": {
+            "japanese": "Taira Kikumoto",
+            "english": "Spike Spencer"
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Counter-Terrorism Division",
+      "characters": [
+        {
+          "id": 56,
+          "name": "Amagi",
+          "images": [],
+          "jutsu": ["Manipulating Attack Blades"],
+          "personal": {
+            "sex": "Male",
+            "affiliation": "Sunagakure",
+            "team": "Counter-Terrorism Division",
+            "age": {
+              "Chunin Promotion": "13"
+            }
+          },
+          "rank": {
+            "ninjaRank": {
+              "Blank Period": "Chūnin"
+            }
+          },
+          "tools": ["Katar"]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Counter-Terrorism Division  (Novel only)",
+      "characters": [
+        {
+          "id": 577,
+          "name": "Kankurō",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/7/7d/Kankur%C5%8D1.png",
+            "https://static.wikia.nocookie.net/naruto/images/4/45/Kankuro_Part_II.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #34",
+            "anime": "Naruto Episode #20",
+            "novel": "Gaara Hiden: A Sandstorm Mirage",
+            "movie": "Naruto the Movie: Legend of the Stone of Gelel",
+            "game": "Naruto: Ninja Council",
+            "ova": "Hidden Leaf Village Grand Sports Festival!",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "family": {
+            "father": "Rasa",
+            "mother": "Karura",
+            "brother": "Gaara",
+            "sister": "Temari",
+            "nephew": "Shikadai Nara",
+            "uncle": "Yashamaru",
+            "adoptive nephew": "Shinki"
+          },
+          "jutsu": [
+            "Black Secret Technique Machine One Shot",
+            "Black Secret Technique Machine Two Shot",
+            "Black Secret Technique — Machine Triple Shot",
+            "Black Secret Technique: Salamander",
+            "Earth Release: Hiding Like a Mole Technique (Novel only)",
+            "Mechanical Light Shield Block",
+            "Poison Mist Hell: Hundred Continuous Firing (Anime only)",
+            "Puppet Performance: Skilful Achievement with a Human Body (Novel only)",
+            "Puppet Technique",
+            "Red Secret Technique: Machinery Triangles"
+          ],
+          "natureType": [
+            "Wind Release",
+            "Lightning Release",
+            "Earth Release",
+            "Water Release"
+          ],
+          "personal": {
+            "birthdate": "May 15",
+            "sex": "Male",
+            "age": {
+              "Part I": "14–15",
+              "Part II": "17–19",
+              "Academy Graduate": "12",
+              "Chunin Promotion": "16"
+            },
+            "height": {
+              "Part I": "165cm - 167cm",
+              "Part II": "175cm",
+              "Gaiden": "180cm"
+            },
+            "weight": {
+              "Part I": "60kg - 61.2kg",
+              "Part II": "61.2kg"
+            },
+            "bloodType": "B",
+            "occupation": [
+              "Fifth Kazekage's Bodyguard",
+              "Captain of the Surprise Attack Division of the Allied Shinobi Forces",
+              "Leader of the Counter-Terrorism Division  (Novel only)"
+            ],
+            "affiliation": ["Sunagakure", "Allied Shinobi Forces"],
+            "team": [
+              "Three Sand Siblings",
+              "Surprise Attack Division",
+              "Counter-Terrorism Division  (Novel only)"
+            ],
+            "clan": "Kazekage   (Novel only)"
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Genin",
+              "Part II": "Jōnin"
+            },
+            "ninjaRegistration": "54-002"
+          },
+          "tools": [
+            "Flamethrower (Manga only)",
+            "Karasu",
+            "Katar",
+            "Kuroari",
+            "Kusarigama (Anime only)",
+            "Mother and Father (Anime only)",
+            "Poison",
+            "Sand",
+            "Sanshōuo",
+            "Sasori",
+            "Senbon (Anime only)"
+          ],
+          "voiceActors": {
+            "japanese": "Yasuyuki Kase",
+            "english": [
+              "Michael Lindsay  (Part I — Kazekage Rescue Mission)",
+              "Doug Erholtz   (Inheritors of the Will of Fire — present)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Cypher Division",
+      "characters": [
+        {
+          "id": 421,
+          "name": "Kisame Hoshigaki",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/2/25/Kisame.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #139",
+            "anime": "Naruto Episode #80",
+            "novel": "Akatsuki Hiden: Evil Flowers in Full Bloom",
+            "movie": "Road to Ninja: Naruto the Movie",
+            "game": "Naruto: Ultimate Ninja 2",
+            "ova": "Hidden Leaf Village Grand Sports Festival!",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "jutsu": [
+            "Earth Release: Subterranean Voyage",
+            "Silent Killing",
+            "Summoning Technique (Shark)",
+            "Water Clone Technique",
+            "Water Prison Shark Dance Technique",
+            "Water Prison Technique",
+            "Water Release: A Thousand Feeding Sharks",
+            "Water Release: Exploding Water Colliding Wave",
+            "Water Release: Five Feeding Sharks",
+            "Water Release: Four Sharks Rain (Anime only)",
+            "Water Release: Great Exploding Water Colliding Wave",
+            "Water Release: Great Shark Bullet Technique",
+            "Water Release: Water Bullet Technique",
+            "Water Release: Water Shark Bullet Technique"
+          ],
+          "natureType": [
+            "Water Release",
+            "Fire Release",
+            "Wind Release",
+            "Earth Release"
+          ],
+          "personal": {
+            "birthdate": "March 18",
+            "sex": "Male",
+            "age": {
+              "Part I": "29",
+              "Part II": "32–33",
+              "Academy Graduate": "10"
+            },
+            "status": "Deceased",
+            "height": {
+              "Part I": "195cm"
+            },
+            "weight": {
+              "Part I": "83.1kg"
+            },
+            "bloodType": "AB",
+            "classification": ["S-rank", "Missing-nin"],
+            "affiliation": ["Kirigakure", "Akatsuki"],
+            "team": ["Cypher Division", "Seven Ninja Swordsmen of the Mist"],
+            "partner": "Itachi Uchiha",
+            "clan": "Hoshigaki   (Anime only)"
+          },
+          "rank": {},
+          "tools": ["Samehada", "Sword"],
+          "uniqueTraits": ["Can absorb chakra", "Gills"],
+          "voiceActors": {
+            "japanese": "Tomoyuki Dan",
+            "english": [
+              "Michael McConnohie   (Episode 80)",
+              "Kirk Thornton   (Episode 81+)"
+            ]
+          }
+        },
+        {
+          "id": 807,
+          "name": "Miru",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/d/d7/Miru_Infobox.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #507",
+            "anime": "Naruto Shippūden Episode #251",
+            "appearsIn": "Anime, Manga"
+          },
+          "personal": {
+            "sex": "Female",
+            "age": {
+              "Part II": "19"
+            },
+            "status": "Deceased",
+            "affiliation": "Kirigakure",
+            "team": "Cypher Division"
+          },
+          "voiceActors": {
+            "japanese": "Yukari Oribe",
+            "english": "Dorothy Elias-Fahn"
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Daimyō Protection Squad",
+      "characters": [
+        {
+          "id": 152,
+          "name": "Chōjūrō",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/d/d8/Chojuro_2.png",
+            "https://static.wikia.nocookie.net/naruto/images/2/22/Chojuro_Part_III.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #454",
+            "anime": "Naruto Shippūden Episode #199",
+            "novel": "Shikamaru Hiden: A Cloud Drifting in Silent Darkness",
+            "movie": "The Last: Naruto the Movie",
+            "game": "Naruto Shippūden 3D: The New Era",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "jutsu": [
+            "Bloody Mist Sword Art: Bone Mutilation",
+            "Silent Killing",
+            "Water Release: Great Waterfall Technique (Anime only)",
+            "Water Release: Water Fang Bullet (Anime only)",
+            "Water Release: Water Formation Wall (Anime only)",
+            "Water Release: Water Spikes (Anime only)"
+          ],
+          "natureType": ["Water Release  (Anime only)"],
+          "personal": {
+            "birthdate": "November 1",
+            "sex": "Male",
+            "age": {
+              "Part II": "19"
+            },
+            "height": {
+              "Part II": "163.6cm"
+            },
+            "weight": {
+              "Part II": "49.5kg"
+            },
+            "bloodType": "B",
+            "occupation": "Mizukage",
+            "affiliation": ["Kirigakure", "Allied Shinobi Forces"],
+            "team": [
+              "Seven Ninja Swordsmen of the Mist",
+              "Daimyō Protection Squad"
+            ]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part II": "Jōnin",
+              "Gaiden": "Kage"
+            }
+          },
+          "tools": ["Hiramekarei", "Sword (Anime only)"],
+          "voiceActors": {
+            "japanese": "Kōki Miyata",
+            "english": "Brian Beacock"
+          }
+        },
+        {
+          "id": 863,
+          "name": "Raidō Namiashi",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/d/d1/Raid%C5%8D_Namiashi_mugshot.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #93",
+            "anime": "Naruto Episode #3",
+            "movie": "Naruto the Movie: Blood Prison",
+            "game": "Naruto: Ultimate Ninja 2",
+            "ova": "Finally a clash! Jōnin vs. Genin!! Indiscriminate Grand Melee Tournament Meeting!!",
+            "appearsIn": "Anime, Manga, Game, Movie"
+          },
+          "jutsu": ["Flying Thunder Formation Technique"],
+          "personal": {
+            "birthdate": "August 28",
+            "sex": "Male",
+            "age": {
+              "Part I": "31–32",
+              "Part II": "35"
+            },
+            "height": {
+              "Part I": "183cm"
+            },
+            "weight": {
+              "Part I": "75kg"
+            },
+            "bloodType": "AB",
+            "occupation": ["Assassin", "Elite Bodyguard"],
+            "affiliation": ["Konohagakure", "Allied Shinobi Forces"],
+            "team": [
+              "Hokage Guard Platoon",
+              "Konoha Special Mission Platoon",
+              "Twenty Platoons",
+              "Daimyō Protection Squad"
+            ]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Tokubetsu Jōnin"
+            },
+            "ninjaRegistration": "009717"
+          },
+          "tools": ["Kokutō", "Poison"],
+          "voiceActors": {
+            "japanese": ["Hiroshi Tsuchida", "Yūko Takayama  (Child)"],
+            "english": ["Patrick Seitz", "Kirk Thornton   (Video games)"]
+          }
+        },
+        {
+          "id": 1110,
+          "name": "Genma Shiranui",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/9/90/Genma_Shiranui.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #34",
+            "anime": "Naruto Episode #55",
+            "movie": "Naruto the Movie: Blood Prison",
+            "game": "Naruto: Ultimate Ninja",
+            "ova": "Finally a clash! Jōnin vs. Genin!! Indiscriminate Grand Melee Tournament Meeting!!",
+            "appearsIn": "Anime, Manga, Game, Movie"
+          },
+          "jutsu": ["Flying Thunder Formation Technique"],
+          "personal": {
+            "birthdate": "July 17",
+            "sex": "Male",
+            "age": {
+              "Part I": "29–30",
+              "Part II": "33",
+              "Academy Graduate": "10",
+              "Chunin Promotion": "13"
+            },
+            "height": {
+              "Part I": "181cm"
+            },
+            "weight": {
+              "Part I": "71kg"
+            },
+            "bloodType": "A",
+            "occupation": ["Chūnin Exams Proctor", "Elite Bodyguard"],
+            "affiliation": ["Konohagakure", "Allied Shinobi Forces"],
+            "team": [
+              "Team Chōza",
+              "Hokage Guard Platoon",
+              "Konoha Special Mission Platoon",
+              "Daimyō Protection Squad"
+            ]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Tokubetsu Jōnin"
+            },
+            "ninjaRegistration": "010203"
+          },
+          "tools": ["Senbon"],
+          "voiceActors": {
+            "japanese": ["Hiroaki Hirata", "Mariko Higashiuchi   (Child)"],
+            "english": [
+              "Johnny Yong Bosch",
+              "Richard Cansino   (2 video games)",
+              "Crispin Freeman   (Naruto: Ultimate Ninja)"
+            ]
+          }
+        },
+        {
+          "id": 1223,
+          "name": "Mei Terumī",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/6/6f/Mei.png",
+            "https://static.wikia.nocookie.net/naruto/images/2/26/Mei_part_III.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #454",
+            "anime": "Naruto Shippūden Episode #199",
+            "novel": "Kakashi Hiden: Lightning in the Icy Sky",
+            "movie": "The Last: Naruto the Movie",
+            "game": "Naruto Shippūden 3D: The New Era",
+            "ova": "Naruto Shippūden: UNSG anime cutscenes",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "jutsu": [
+            "The Springtime of Youth wiki has an article about this topic:",
+            "Mei Terumī"
+          ],
+          "natureType": [
+            "Lava Release",
+            "Boil Release",
+            "Water Release",
+            "Fire Release",
+            "Lightning Release",
+            "Earth Release"
+          ],
+          "personal": {
+            "birthdate": "May 21",
+            "sex": "Female",
+            "age": {
+              "Part II": "31",
+              "Academy Graduate": "9"
+            },
+            "height": {
+              "Part II": "174cm"
+            },
+            "weight": {
+              "Part II": "53kg"
+            },
+            "bloodType": "AB",
+            "kekkeiGenkai": ["Lava Release", "Boil Release"],
+            "occupation": "Mizukage",
+            "affiliation": ["Kirigakure", "Allied Shinobi Forces"],
+            "team": "Daimyō Protection Squad"
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part II": "Kage"
+            }
+          },
+          "voiceActors": {
+            "japanese": "Yurika Hino",
+            "english": [
+              "Mary Elizabeth McGlynn",
+              "Kate Higgins   (Naruto Shippūden: Ultimate Ninja Impact)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Daimyō Protection Squad  (Anime only)",
+      "characters": [
+        {
+          "id": 1196,
+          "name": "Iwashi Tatami",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/7/7c/Iwashi_Tatami.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #57",
+            "anime": "Naruto Episode #21",
+            "game": "Naruto Mobile",
+            "ova": "The Day Naruto Became Hokage (OVA)",
+            "appearsIn": "Anime, Manga, Game"
+          },
+          "jutsu": ["Flying Thunder Formation Technique (Anime only)"],
+          "personal": {
+            "birthdate": "January 2",
+            "sex": "Male",
+            "age": {
+              "Part I": "23"
+            },
+            "height": {
+              "Part I": "173cm"
+            },
+            "weight": {
+              "Part I": "61.5kg"
+            },
+            "bloodType": "O",
+            "occupation": ["Chūnin Exams Assistant", "Elite Bodyguard"],
+            "affiliation": ["Konohagakure", "Allied Shinobi Forces"],
+            "team": [
+              "Konoha Special Mission Platoon",
+              "Third Division",
+              "Hokage Guard Platoon  (Anime only)",
+              "Daimyō Protection Squad  (Anime only)"
+            ]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Chūnin"
+            },
+            "ninjaRegistration": "012021"
+          },
+          "voiceActors": {
+            "japanese": "Masato Funaki",
+            "english": ["Michael P. Greco", "Steve Kramer   (Episode 146)"]
+          }
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Dark Thunder Group  (Novel only)",
+      "characters": [
+        {
+          "id": 598,
+          "name": "Karyū",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/f/fe/Kary%C5%AB.png"
+          ],
+          "debut": {
+            "anime": "Naruto Shippūden Episode #484",
+            "novel": "Sasuke Shinden: Book of Sunrise",
+            "appearsIn": "Anime, Novel"
+          },
+          "jutsu": [
+            "Earth Release: Earth-Style Wall",
+            "Earth Release: Multiple Earth-Style Wall",
+            "Lava Release: Rubber Ball",
+            "Lava Release: Rubber Wall"
+          ],
+          "natureType": ["Lava Release", "Fire Release", "Earth Release"],
+          "personal": {
+            "sex": "Male",
+            "status": "Deceased",
+            "height": {
+              "Gaiden": "175cm"
+            },
+            "kekkeiGenkai": "Lava Release",
+            "classification": "Missing-nin",
+            "occupation": "Leader of the Dark Thunder Group  (Novel only)",
+            "affiliation": ["Land of Lightning", "Kirigakure  (Anime only)"],
+            "team": ["Dark Thunder Group  (Novel only)", "Lightning Group"]
+          },
+          "voiceActors": {
+            "japanese": "Yō Tokinaga",
+            "english": "Kirk Thornton"
+          }
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Demon Brothers",
+      "characters": [
+        {
+          "id": 338,
+          "name": "Gōzu",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/7/7b/Gozu_profile_pic.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #9",
+            "anime": "Naruto Episode #6",
+            "novel": "Naruto: Innocent Heart, Demonic Blood",
+            "game": "Naruto: Konoha Ninpōchō",
+            "appearsIn": "Anime, Manga, Novel, Game"
+          },
+          "family": {
+            "twin brother": "Meizu"
+          },
+          "jutsu": ["Water Release: Hiding in Water Technique"],
+          "natureType": ["Water Release"],
+          "personal": {
+            "birthdate": "June 6",
+            "sex": "Male",
+            "age": {
+              "Part I": "25",
+              "Academy Graduate": "12",
+              "Chunin Promotion": "18"
+            },
+            "height": {
+              "Part I": "178cm"
+            },
+            "weight": {
+              "Part I": "73.3kg"
+            },
+            "bloodType": "B",
+            "classification": ["Missing-nin", "Mercenary Ninja"],
+            "occupation": "Zabuza's subordinate",
+            "affiliation": "Kirigakure",
+            "team": "Demon Brothers",
+            "partner": "Meizu"
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Chūnin"
+            }
+          },
+          "tools": ["Kusari", "Metal Gauntlets", "Poison"],
+          "voiceActors": {
+            "japanese": "Toshiaki Kuwahara",
+            "english": "Dan Woren"
+          },
+          "業頭Gōzu": {}
+        },
+        {
+          "id": 779,
+          "name": "Meizu",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/5/59/Meizu.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #9",
+            "anime": "Naruto Episode #6",
+            "novel": "Naruto: Innocent Heart, Demonic Blood",
+            "game": "Naruto: Konoha Ninpōchō",
+            "appearsIn": "Anime, Manga, Novel, Game"
+          },
+          "family": {
+            "twin brother": "Gōzu"
+          },
+          "jutsu": ["Water Release: Hiding in Water Technique"],
+          "natureType": ["Water Release"],
+          "personal": {
+            "birthdate": "June 6",
+            "sex": "Male",
+            "age": {
+              "Part I": "25",
+              "Academy Graduate": "12",
+              "Chunin Promotion": "18"
+            },
+            "height": {
+              "Part I": "178cm"
+            },
+            "weight": {
+              "Part I": "73.6kg"
+            },
+            "bloodType": "B",
+            "classification": ["Missing-nin", "Mercenary Ninja"],
+            "occupation": "Zabuza's subordinate",
+            "affiliation": "Kirigakure",
+            "team": "Demon Brothers",
+            "partner": "Gōzu"
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Chūnin"
+            }
+          },
+          "tools": ["Kusari", "Metal Gauntlets", "Poison"],
+          "voiceActors": {
+            "japanese": "Toshiaki Kuwahara",
+            "english": "Kirk Thornton"
+          },
+          "冥頭Meizu": {}
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Dotō's Three-Man-Team",
+      "characters": [
+        {
+          "id": 258,
+          "name": "Mizore Fuyukuma",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/3/34/Mizore_Fuyukuma.png"
+          ],
+          "debut": {
+            "novel": "Naruto the Movie: Ninja Clash in the Land of Snow (novel)",
+            "movie": "Naruto the Movie: Ninja Clash in the Land of Snow",
+            "game": "Naruto: Ultimate Ninja 2",
+            "appearsIn": "Novel, Game, Movie"
+          },
+          "jutsu": [
+            "Explosion: Ice Mountain Destruction",
+            "Roaring Run: Great Strength Ice Strike"
+          ],
+          "personal": {
+            "sex": "Male",
+            "status": "Deceased",
+            "affiliation": "Yukigakure",
+            "team": "Dotō's Three-Man-Team"
+          },
+          "tools": ["Chakra Armour", "Retractable Cable Arm", "Snowboard"],
+          "voiceActors": {
+            "japanese": "Holly Kaneko",
+            "english": "Kyle Hebert"
+          }
+        },
+        {
+          "id": 557,
+          "name": "Fubuki Kakuyoku",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/b/ba/Fubuki_Kakuyoku.png"
+          ],
+          "debut": {
+            "novel": "Naruto the Movie: Ninja Clash in the Land of Snow (novel)",
+            "movie": "Naruto the Movie: Ninja Clash in the Land of Snow",
+            "game": "Naruto: Ultimate Ninja 2",
+            "appearsIn": "Novel, Game, Movie"
+          },
+          "jutsu": ["Ice Prison Technique", "Ice Release: Swallow Snow Storm"],
+          "natureType": ["Ice Release"],
+          "personal": {
+            "sex": "Female",
+            "status": "Deceased",
+            "affiliation": "Yukigakure",
+            "team": "Dotō's Three-Man-Team"
+          },
+          "tools": ["Chakra Armour", "Ice Bomb"],
+          "voiceActors": {
+            "japanese": "Jun Karasawa",
+            "english": "Cindy Robinson"
+          }
+        },
+        {
+          "id": 979,
+          "name": "Nadare Rōga",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/1/19/Nadare_R%C5%8Dga.png"
+          ],
+          "debut": {
+            "novel": "Naruto the Movie: Ninja Clash in the Land of Snow (novel)",
+            "movie": "Naruto the Movie: Ninja Clash in the Land of Snow",
+            "game": "Naruto: Ultimate Ninja 2",
+            "appearsIn": "Novel, Game, Movie"
+          },
+          "jutsu": [
+            "Ice Release: One Horned White Whale",
+            "Ice Release: Tearing Dragon Fierce Tiger",
+            "Ice Release: Wolf Fang Avalanche Technique"
+          ],
+          "natureType": ["Ice Release"],
+          "personal": {
+            "sex": "Male",
+            "status": "Deceased",
+            "affiliation": "Yukigakure",
+            "team": "Dotō's Three-Man-Team"
+          },
+          "tools": ["Chakra Armour", "Chakra Disruption Device"],
+          "voiceActors": {
+            "japanese": "Hirotaka Suzuoki",
+            "english": "Liam O'Brien"
+          }
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Eight Man Squad",
+      "characters": [
+        {
+          "id": 13,
+          "name": "Shino Aburame",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/9/9c/Shino.png",
+            "https://static.wikia.nocookie.net/naruto/images/e/e1/Shino_Aburame_P2.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #34",
+            "anime": "Naruto Episode #1",
+            "novel": "Kakashi Hiden: Lightning in the Icy Sky",
+            "movie": "Naruto Shippūden the Movie: Bonds",
+            "game": "Naruto: Konoha Ninpōchō",
+            "ova": "Hidden Leaf Village Grand Sports Festival!",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "family": {
+            "father": "Shibi Aburame",
+            "adoptive brother": "Torune Aburame"
+          },
+          "jutsu": [
+            "Human Cocoon Technique (Anime only)",
+            "Insect Clone Technique",
+            "Insect Jamming Technique",
+            "Insect Jar Technique (Anime only)",
+            "Insect Rope Technique (Anime only)",
+            "Iron Mountain Leaning (Anime only)",
+            "Manipulated Shuriken Technique (Anime only)",
+            "Parasitic Destruction Insect Technique (Giant Insect, Kidaichū, Kikaichū)",
+            "Parasitic Giant Insect — Bug Bite",
+            "Secret Technique: Insect Cocoon (Anime only)",
+            "Secret Technique: Insect Gathering (Anime only)",
+            "Secret Technique: Insect Sphere",
+            "Secret Technique: Insect Tornado (Anime only)",
+            "Secret Technique: Insect Wall (Anime only)",
+            "Spindle Formation (Anime only)",
+            "Summoning Technique (Giant Insect, Kidaichū, Kikaichū)"
+          ],
+          "natureType": ["Earth Release", "Fire Release", "Yang Release"],
+          "personal": {
+            "birthdate": "January 23",
+            "sex": "Male",
+            "age": {
+              "Part I": "12–13",
+              "Part II": "16–17",
+              "Academy Graduate": "12",
+              "Chunin Promotion": "14"
+            },
+            "height": {
+              "Part I": "156.2cm - 161.1cm",
+              "Part II": "175.1cm",
+              "Blank Period": "182cm",
+              "Gaiden": "186.5cm"
+            },
+            "weight": {
+              "Part I": "45.8kg - 48.5kg",
+              "Part II": "56.6kg"
+            },
+            "bloodType": "AB",
+            "occupation": [
+              "Academy Teacher",
+              "Chūnin Exams Proctor",
+              "Genin Exams Proctor  (Anime only)"
+            ],
+            "affiliation": ["Konohagakure", "Allied Shinobi Forces"],
+            "team": [
+              "Team 8",
+              "Konoha 11  (Anime only)",
+              "Bikōchū Search Team  (Anime only)",
+              "Kaima Capture Team  (Anime only)",
+              "Eight Man Squad",
+              "Team One  (Anime only)",
+              "Fifth Division"
+            ],
+            "clan": "Aburame"
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Genin",
+              "Part II": "Chūnin"
+            },
+            "ninjaRegistration": "012618"
+          },
+          "tools": ["Sealing Tag (Anime only)", "Wire Strings (Anime only)"],
+          "voiceActors": {
+            "japanese": "Shinji Kawada",
+            "english": [
+              "Sam Riegel   (Episodes 23-24)",
+              "Derek Stephen Prince   (Episode 34+)"
+            ]
+          }
+        },
+        {
+          "id": 29,
+          "name": "Akamaru",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/0/09/Akamaru_p1.png",
+            "https://static.wikia.nocookie.net/naruto/images/0/06/Akamaru_part_II.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #39",
+            "anime": "Naruto Episode #23",
+            "novel": "Kakashi Hiden: Lightning in the Icy Sky",
+            "movie": "Naruto Shippūden the Movie: The Will of Fire",
+            "game": "Naruto: Konoha Ninpōchō",
+            "ova": "Hidden Leaf Village Grand Sports Festival!",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "jutsu": [
+            "Beast Human Clone",
+            "Combination Transformation",
+            "Dynamic Marking",
+            "Fang Passing Fang",
+            "Fang Rotating Fang",
+            "Fang Wolf Fang",
+            "Human Beast Combination Transformation: Double-Headed Wolf",
+            "Human Beast Mixture Transformation — Three-Headed Wolf",
+            "Passing Fang",
+            "Super Fang Wolf Fang (Anime only)",
+            "Tail Chasing Fang Fang Rotating Fang"
+          ],
+          "personal": {
+            "birthdate": "July 7",
+            "sex": "Male",
+            "species": "Ninken",
+            "age": {
+              "Part I": "3–4",
+              "Part II": "7–8"
+            },
+            "height": {
+              "Part I": "28cm - 29.1cm",
+              "Part II": "127.2cm"
+            },
+            "weight": {
+              "Part I": "5.1kg - 5.3kg",
+              "Part II": "80.5kg"
+            },
+            "affiliation": ["Konohagakure", "Allied Shinobi Forces"],
+            "team": [
+              "Team 8",
+              "Konoha 11  (Anime only)",
+              "Sasuke Recovery Team",
+              "Bikōchū Search Team  (Anime only)",
+              "Team Two  (Anime only)",
+              "Eight Man Squad",
+              "Fifth Division"
+            ],
+            "partner": "Kiba Inuzuka",
+            "clan": "Inuzuka"
+          },
+          "tools": ["Military Rations Pill"],
+          "voiceActors": {
+            "japanese": ["Junko Takeuchi", "Kōsuke Toriumi   (Man-Beast Form)"],
+            "english": ["Jamie Simone", "Kyle Hebert   (Man-Beast Form)"]
+          }
+        },
+        {
+          "id": 374,
+          "name": "Sakura Haruno",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/6/64/Sakura_Part_1.png",
+            "https://static.wikia.nocookie.net/naruto/images/b/ba/Sakurap2.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #3",
+            "anime": "Naruto Episode #1",
+            "novel": "Naruto: Innocent Heart, Demonic Blood",
+            "movie": "Naruto the Movie: Ninja Clash in the Land of Snow",
+            "game": "Naruto: Konoha Ninpōchō",
+            "ova": "Find the Four-Leaf Red Clover!",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "family": {
+            "father": "Kizashi Haruno",
+            "mother": "Mebuki Haruno",
+            "daughter": "Sarada Uchiha",
+            "husband": "Sasuke Uchiha"
+          },
+          "jutsu": [
+            "Area Scanning Technique (Manga only)",
+            "Chakra Enhanced Strength",
+            "Chakra Scalpel",
+            "Chakra Transfer Technique",
+            "Cherry Blossom Impact",
+            "Creation Rebirth",
+            "Delicate Illness Extraction Technique",
+            "Four-Corner Sealing Barrier (Anime only)",
+            "Healing Resuscitation Regeneration Technique (Anime only)",
+            "Healing Technique",
+            "Katsuyu: Immense Network Healing",
+            "Mystical Palm Technique",
+            "Ninja Art Creation Rebirth — Strength of a Hundred Technique",
+            "Polar Particle Unsealing Technique",
+            "Puppet: Spring Punishing Strike",
+            "Sakura Blizzard Technique",
+            "Strength of a Hundred Seal",
+            "Summoning Technique (Slug)",
+            "Yin Seal: Release"
+          ],
+          "natureType": [
+            "Earth Release",
+            "Water Release",
+            "Fire Release  (Novel only)",
+            "Yin Release",
+            "Yang Release"
+          ],
+          "personal": {
+            "birthdate": "March 28",
+            "sex": "Female",
+            "age": {
+              "Part I": "12–13",
+              "Part II": "15–17",
+              "Academy Graduate": "12",
+              "Chunin Promotion": "14"
+            },
+            "height": {
+              "Part I": "148.5cm - 150.1cm",
+              "Part II": "161cm",
+              "Blank Period": "165cm"
+            },
+            "weight": {
+              "Part I": "35.4kg - 35.9kg",
+              "Part II": "45.4kg"
+            },
+            "bloodType": "O",
+            "classification": "Medical-nin",
+            "occupation": [
+              "Director of Konoha Children Mental Health Clinic",
+              "Head of Konoha Medical Department"
+            ],
+            "affiliation": [
+              "Konohagakure",
+              "Allied Shinobi Forces",
+              "Shikkotsu Forest"
+            ],
+            "team": [
+              "Team Kakashi",
+              "Konoha 11  (Anime only)",
+              "Team Asuma  (Anime only)",
+              "Kazekage Rescue Team",
+              "Eight Man Squad",
+              "Team Three  (Anime only)",
+              "Third Division",
+              "Hanabi Rescue Team  (Movie only)",
+              "Ino–Saku–Sai  (Novel only)",
+              "Medic Corps"
+            ],
+            "clan": "Uchiha"
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Genin",
+              "Part II": "Chūnin",
+              "Blank Period": "Jōnin"
+            },
+            "ninjaRegistration": "012601"
+          },
+          "tools": [
+            "Antidote",
+            "Konoha Chakra Blade",
+            "Lightning Barrel (Anime only)",
+            "Military Rations Pill (Anime only)",
+            "Poison",
+            "Senbon (Anime only)",
+            "Tantō"
+          ],
+          "voiceActors": {
+            "japanese": "Chie Nakamura",
+            "english": "Kate Higgins"
+          }
+        },
+        {
+          "id": 376,
+          "name": "Kakashi Hatake",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png",
+            "https://static.wikia.nocookie.net/naruto/images/2/25/Kakashi_Part_III.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #3",
+            "anime": "Naruto Episode #3",
+            "novel": "Naruto: Innocent Heart, Demonic Blood",
+            "movie": "Naruto the Movie: Ninja Clash in the Land of Snow",
+            "game": "Naruto: Konoha Ninpōchō",
+            "ova": "Find the Four-Leaf Red Clover!",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "family": {
+            "father": "Sakumo Hatake"
+          },
+          "jutsu": [
+            "Area Scanning Technique",
+            "Chidori",
+            "Demonic Illusion: Hell Viewing Technique",
+            "Earth Release: Double Suicide Decapitation Technique",
+            "Earth Release: Earth Wave Technique (Anime only)",
+            "Earth Release: Earth-Style Wall",
+            "Earth Release: Hiding Like a Mole Technique",
+            "Earth Release: Multiple Earth-Style Wall (Anime only)",
+            "Earth Release: Rending Drill Fang",
+            "Eight Gates",
+            "Evil Sealing Method",
+            "Eye Mind Reading (Anime only)",
+            "Fire Release: Great Fireball Technique (Anime only)",
+            "Fire Release: Water Mist (Novel only)",
+            "Flying Revolving Sword (Anime only)",
+            "Front Lotus (Anime only)",
+            "Genjutsu: Sharingan",
+            "Ground Splitting Technique",
+            "Hiding in Mist Technique (Anime only)",
+            "Ice Release: One Horned White Whale",
+            "Kamui",
+            "Kamui Lightning Cutter",
+            "Kamui Shuriken",
+            "Lightning Cutter",
+            "Lightning Release: Lightning Beast Tracking Fang",
+            "Lightning Release: Purple Electricity",
+            "Lightning Release: Shadow Clone Technique",
+            "Lightning Transmission",
+            "Multiple Shadow Clone Technique",
+            "One Thousand Years of Death",
+            "Peregrine Falcon Drop (Anime only)",
+            "Rasengan",
+            "Shadow Clone Technique",
+            "Shadow of the Dancing Leaf (Anime only)",
+            "Silent Killing",
+            "Strong Fist (Anime only)",
+            "Summoning Technique (Ninken)",
+            "Summoning: Earth Release: Tracking Fang Technique",
+            "Susanoo",
+            "Water Clone Technique",
+            "Water Release: Great Waterfall Technique",
+            "Water Release: Water Beast",
+            "Water Release: Water Bullet Technique",
+            "Water Release: Water Dragon Bullet Technique",
+            "Water Release: Water Formation Wall",
+            "Water Release: Water Shark Bullet Technique",
+            "White Light Blade"
+          ],
+          "natureType": [
+            "Lightning Release  (Affinity)",
+            "Earth Release",
+            "Water Release",
+            "Fire Release",
+            "Wind Release",
+            "Yin Release",
+            "Yang Release"
+          ],
+          "personal": {
+            "birthdate": "September 15",
+            "sex": "Male",
+            "age": {
+              "Part I": "26–27",
+              "Part II": "29–31",
+              "Academy Graduate": "5",
+              "Chunin Promotion": "6"
+            },
+            "height": {
+              "Part I": "181cm"
+            },
+            "weight": {
+              "Part I": "67.5kg"
+            },
+            "bloodType": "O",
+            "kekkeiGenkai": ["Sharingan", "Mangekyō Sharingan"],
+            "occupation": [
+              "Anbu Captain  (Former)",
+              "Third Division Commander of the Allied Shinobi Forces",
+              "Hokage",
+              "Genin Exams Proctor  (Anime only)"
+            ],
+            "affiliation": [
+              "Konohagakure",
+              "Root  (Anime only)",
+              "Allied Shinobi Forces"
+            ],
+            "team": [
+              "Team Minato",
+              "Team Ro  (Anime only)",
+              "Team Kakashi",
+              "Kazekage Rescue Team",
+              "Team Asuma  (Temporarily)",
+              "Team One  (Anime only)",
+              "Team 8  (Temporarily)",
+              "Eight Man Squad",
+              "Third Division"
+            ],
+            "clan": "Hatake",
+            "titles": [
+              "はたけカカシHatakeKakashi",
+              "copyNinjaKakashi(コピー忍者のカカシ,KopīNinjaNoKakashi)",
+              "kakashiOfTheSharingan(写輪眼のカカシ,SharinganNoKakashi,LiterallyMeaning:KakashiOfTheCopyWheelEye)",
+              "heroOfTheSharingan(写輪眼の英雄,SharinganNoEiyū,LiterallyMeaning:HeroOfTheCopyWheelEye)",
+              "cold-bloodedKakashi(冷血カカシ,ReiketsuKakashi)",
+              "friend-killerKakashi(仲間殺しのカカシ,NakamagoroshiNoKakashi)",
+              "sixthHokage(六代目火影,RokudaimeHokage,LiterallyMeaning:SixthFireShadow)",
+              "sukea(スケア)"
+            ]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Jōnin",
+              "Blank Period": "Kage"
+            },
+            "ninjaRegistration": "009720"
+          },
+          "tools": [
+            "Bow & Arrow (Anime only)",
+            "Chakra-Suppressing Seal",
+            "Flying Thunder God Kunai",
+            "Kubikiribōchō",
+            "Kusarigama (Anime only)",
+            "Lightning Barrel (Anime only)",
+            "Makibishi",
+            "Sword",
+            "Tantō",
+            "White Light Chakra Sabre",
+            "Wire Strings"
+          ],
+          "voiceActors": {
+            "japanese": [
+              "Kazuhiko Inoue",
+              "Mutsumi Tamura  (Child)",
+              "Kenichi Suzumura   (Sukea)"
+            ],
+            "english": ["Dave Wittenberg", "Xander Mobus   (Sukea)"]
+          }
+        },
+        {
+          "id": 437,
+          "name": "Hinata Hyūga",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/9/97/Hinata.png",
+            "https://static.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #34",
+            "anime": "Naruto Episode #1",
+            "novel": "Naruto: Innocent Heart, Demonic Blood",
+            "movie": "Naruto Shippūden the Movie",
+            "game": "Naruto: Konoha Ninpōchō",
+            "ova": "Hidden Leaf Village Grand Sports Festival!",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "family": {
+            "grandfather": "Hyūga Elder",
+            "father": "Hiashi Hyūga",
+            "uncle": "Hizashi Hyūga",
+            "cousin": "Neji Hyūga",
+            "mother ": "Hinata and Hanabi's Mother",
+            "sister": "Hanabi Hyūga",
+            "son": "Boruto Uzumaki",
+            "daughter": "Himawari Uzumaki",
+            "husband": "Naruto Uzumaki",
+            "adoptive son": "Kawaki"
+          },
+          "jutsu": [
+            "Chakra Transfer Technique",
+            "Eight Trigrams Sixty-Four Palms",
+            "Eight Trigrams Thirty-Two Palms (Anime only)",
+            "Eight Trigrams Twin Lions Crumbling Attack",
+            "Eight Trigrams Vacuum Palm",
+            "Eight Trigrams Vacuum Wall Palm",
+            "Four-Corner Sealing Barrier (Anime only)",
+            "Gentle Fist",
+            "Gentle Step Spiralling Twin Lion Fists",
+            "Gentle Step Twin Lion Fists",
+            "Mystical Palm Technique (Anime only)",
+            "Palm Bottom",
+            "Protecting Eight Trigrams Sixty-Four Palms (Anime only)",
+            "Water Needle (Anime only)"
+          ],
+          "natureType": ["Fire Release", "Lightning Release"],
+          "personal": {
+            "birthdate": "December 27",
+            "sex": "Female",
+            "age": {
+              "Part I": "12–13",
+              "Part II": "16",
+              "Academy Graduate": "12",
+              "Chunin Promotion": "14"
+            },
+            "height": {
+              "Part I": "147.3cm - 148.3cm",
+              "Part II": "160cm",
+              "Blank Period": "163cm"
+            },
+            "weight": {
+              "Part I": "37.9kg - 38.2kg",
+              "Part II": "45kg"
+            },
+            "bloodType": "A",
+            "kekkeiGenkai": "Byakugan",
+            "occupation": "Heiress of the Hyūga Clan  (Former)",
+            "affiliation": ["Konohagakure", "Allied Shinobi Forces"],
+            "team": [
+              "Team 8",
+              "Konoha 11  (Anime only)",
+              "Bikōchū Search Team  (Anime only)",
+              "Peddlers Escort Team  (Anime only)",
+              "Team Three  (Anime only)",
+              "Eight Man Squad",
+              "Second Division",
+              "Hanabi Rescue Team  (Movie only)"
+            ],
+            "clan": ["Hyūga", "Uzumaki Clan"]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Genin",
+              "Part II": "Chūnin"
+            },
+            "ninjaRegistration": "012612"
+          },
+          "tools": ["Hyūga Clan Secret Ointment"],
+          "voiceActors": {
+            "japanese": "Nana Mizuki",
+            "english": "Stephanie Sheh"
+          }
+        },
+        {
+          "id": 466,
+          "name": "Kiba Inuzuka",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/0/03/Kiba.png",
+            "https://static.wikia.nocookie.net/naruto/images/c/cb/Kiba_Part_2.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #34",
+            "anime": "Naruto Episode #1",
+            "novel": "Kakashi Hiden: Lightning in the Icy Sky",
+            "movie": "Naruto Shippūden the Movie",
+            "game": "Naruto: Konoha Ninpōchō",
+            "ova": "Hidden Leaf Village Grand Sports Festival!",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "family": {
+            "mother": "Tsume Inuzuka",
+            "sister": "Hana Inuzuka",
+            "lover": "Tamaki"
+          },
+          "jutsu": [
+            "Beast Human Clone",
+            "Booby Trap",
+            "Combination Transformation",
+            "Fang Passing Fang",
+            "Fang Rotating Fang",
+            "Fang Wolf Fang",
+            "Four Legs Technique",
+            "Human Beast Combination Transformation: Double-Headed Wolf",
+            "Human Beast Mixture Transformation — Three-Headed Wolf",
+            "Passing Fang",
+            "Shadow Clone Technique",
+            "Super Fang Wolf Fang (Anime only)",
+            "Tail Chasing Fang Fang Rotating Fang"
+          ],
+          "natureType": ["Earth Release", "Yang Release"],
+          "personal": {
+            "birthdate": "July 7",
+            "sex": "Male",
+            "age": {
+              "Part I": "12–13",
+              "Part II": "16–17",
+              "Academy Graduate": "12",
+              "Chunin Promotion": "14"
+            },
+            "height": {
+              "Part I": "151.2cm - 152.5cm",
+              "Part II": "169.1cm",
+              "Blank Period": "173cm"
+            },
+            "weight": {
+              "Part I": "43.3kg - 44.7kg",
+              "Part II": "52.5kg"
+            },
+            "bloodType": "B",
+            "occupation": [
+              "Dog Breeder  (Anime Only)",
+              "Police Officer  (Anime Only)"
+            ],
+            "affiliation": ["Konohagakure", "Allied Shinobi Forces"],
+            "team": [
+              "Team 8",
+              "Sasuke Recovery Team",
+              "Konoha 11  (Anime only)",
+              "Bikōchū Search Team  (Anime only)",
+              "Team Two  (Anime only)",
+              "Eight Man Squad",
+              "Fifth Division",
+              "Konoha Military Police Force  (Anime Only)"
+            ],
+            "partner": "Akamaru",
+            "clan": "Inuzuka",
+            "titles": ["犬塚キバInuzukaKiba"]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Genin",
+              "Part II": "Chūnin"
+            },
+            "ninjaRegistration": "012620"
+          },
+          "tools": ["Military Rations Pill"],
+          "voiceActors": {
+            "japanese": "Kōsuke Toriumi",
+            "english": ["Kyle Hebert", "Doug Erholtz   (Episode 3)"]
+          }
+        },
+        {
+          "id": 1008,
+          "name": "Sai",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/0/07/Sai_Infobox.png",
+            "https://static.wikia.nocookie.net/naruto/images/6/6c/Sai_Part_III.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #281",
+            "anime": "Naruto Shippūden Episode #32",
+            "novel": "Kakashi Hiden: Lightning in the Icy Sky",
+            "movie": "Naruto Shippūden the Movie: Bonds",
+            "game": "Naruto Shippūden: Gekitō Ninja Taisen! EX 2",
+            "ova": "Naruto Shippūden: UNSG anime cutscenes",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "family": {
+            "son": "Inojin Yamanaka",
+            "adoptive brother": "Shin",
+            "wife": "Ino Yamanaka"
+          },
+          "jutsu": [
+            "Assassination Technique",
+            "Earth Release: Hiding Like a Mole Technique",
+            "Ink Clone Technique",
+            "Ink Flush (Anime only)",
+            "Ink Mist Technique",
+            "Mental Resistance Technique (Anime only)",
+            "Sealing Technique: Tiger Vision Staring Bullet",
+            "Shadow Clone Technique (Anime only)",
+            "Super Beast Imitating Drawing",
+            "Super God Imitating Drawing"
+          ],
+          "natureType": [
+            "Earth Release",
+            "Water Release",
+            "Fire Release",
+            "Yang Release"
+          ],
+          "personal": {
+            "birthdate": "November 25",
+            "sex": "Male",
+            "age": {
+              "Part II": "17",
+              "Academy Graduate": "9",
+              "Chunin Promotion": "10"
+            },
+            "height": {
+              "Part II": "172.1cm",
+              "Blank Period": "176cm"
+            },
+            "weight": {
+              "Part II": "53.3kg"
+            },
+            "bloodType": "A",
+            "occupation": ["Chūnin Exams Proctor", "Anbu Chief"],
+            "affiliation": ["Konohagakure", "Root", "Allied Shinobi Forces"],
+            "team": [
+              "Team Kakashi",
+              "Eight Man Squad",
+              "Team One  (Anime only)",
+              "Infiltration and Reconnaissance Party",
+              "Surprise Attack Division",
+              "Hanabi Rescue Team  (Movie only)",
+              "Ino–Saku–Sai  (Novel only)",
+              "Team 25  (Anime only)",
+              "Konoha 11  (Anime only)"
+            ],
+            "clan": "Yamanaka"
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part II": "Anbu",
+              "Blank Period": "Chūbu"
+            },
+            "ninjaRegistration": "012420"
+          },
+          "tools": [
+            "Flash Bomb (Anime only)",
+            "Konoha Chakra Blade",
+            "Tantō",
+            "Wire Strings (Anime only)"
+          ],
+          "voiceActors": {
+            "japanese": "Satoshi Hino",
+            "english": "Benjamin Diskin"
+          }
+        },
+        {
+          "id": 1344,
+          "name": "Naruto Uzumaki",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/d/d6/Naruto_Part_I.png",
+            "https://static.wikia.nocookie.net/naruto/images/7/7d/Naruto_Part_II.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #1",
+            "anime": "Naruto Episode #1",
+            "novel": "Naruto: Innocent Heart, Demonic Blood",
+            "movie": "Naruto the Movie: Ninja Clash in the Land of Snow",
+            "game": "Naruto: Konoha Ninpōchō",
+            "ova": "Find the Four-Leaf Red Clover!",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "family": {
+            "father": "Minato Namikaze",
+            "mother": "Kushina Uzumaki",
+            "son": "Boruto Uzumaki",
+            "daughter": "Himawari Uzumaki",
+            "wife": "Hinata Uzumaki",
+            "adoptive son": "Kawaki",
+            "godfather": "Jiraiya"
+          },
+          "jutsu": [
+            "All Directions Shuriken",
+            "Baryon Mode",
+            "Big Ball Rasengan",
+            "Big Ball Rasenshuriken",
+            "Big Ball Spiralling Serial Zone Spheres",
+            "Boil Release: Unrivalled Strength",
+            "Chakra Transfer Technique",
+            "Clone Body Blow",
+            "Clone Flying Arrow",
+            "Clone Spinning Heel Drop (Anime only)",
+            "Combination Transformation",
+            "Continuous Tailed Beast Balls",
+            "Crescent Moon Rasengan",
+            "Earth Release: Earth-Style Wall",
+            "Erupting Propulsion Fist",
+            "Fire Release: Toad Oil Flame Bullet (Anime only)",
+            "Frog Kata",
+            "Frog Strike",
+            "Gelel Rasengan",
+            "Gentle Step Spiralling Twin Lion Fists",
+            "Guts Rasengan",
+            "Harem Technique",
+            "Hurricane Thunderclap — Majestic Attire Sword Stroke",
+            "Ink Creation",
+            "Kurama Arm Attack",
+            "Mini-Rasenshuriken",
+            "Multiple Shadow Clone Technique",
+            "Naruto Region Combo",
+            "Naruto Uzumaki Combo",
+            "Naruto Uzumaki Two Thousand Combo",
+            "Naruto and Shion's Super Chakra Rasengan",
+            "Negative Emotions Sensing",
+            "New Sexy Technique",
+            "Nine-Tails Chakra Mode",
+            "Ninja Art: Bare-Handed Blade Block",
+            "One Thousand Years of Death",
+            "Pachinko Technique (Anime only)",
+            "Parachute",
+            "Parent and Child Rasengan",
+            "Planetary Rasengan",
+            "Rasengan",
+            "Rasengan: Flash",
+            "Regeneration Ability",
+            "Runt Ball Rasengan (Anime only)",
+            "Sage Art: Lava Release Rasenshuriken",
+            "Sage Art: Magnet Release Rasengan",
+            "Sage Art: Many Ultra-Big Ball Spiralling Serial Spheres",
+            "Sage Art: Super Tailed Beast Rasenshuriken",
+            "Sage Mode",
+            "Scorch Release: Halo Hurricane Jet Black Arrow Style Zero",
+            "Seven-Coloured Rasengan",
+            "Sexy Reverse Harem Technique",
+            "Sexy Technique",
+            "Sexy Technique: Pole Dance and Nice Body (Anime only)",
+            "Shadow Clone Technique",
+            "Shadow Shuriken Technique",
+            "Shuriken Shadow Clone Technique (Anime only)",
+            "Six Paths Sage Mode",
+            "Six Paths Senjutsu",
+            "Six Paths Yang Power",
+            "Six Paths — Chibaku Tensei",
+            "Six Paths: Ultra-Big Ball Rasenshuriken",
+            "Soap Bubble Ninjutsu (Anime only)",
+            "Spiralling Absorption Sphere",
+            "Spiralling Serial Spheres",
+            "Spiralling Strife Spheres",
+            "Strong Fist (Anime only)",
+            "Summoning Technique (Toad)",
+            "Summoning: Food Cart Destroyer Technique",
+            "Super Mini-Tailed Beast Ball",
+            "Super-Ultra-Big Ball Rasengan",
+            "Supreme Ultimate Rasengan",
+            "Tailed Beast Ball",
+            "Tailed Beast Ball Rasenshuriken",
+            "Tailed Beast Chakra Arms",
+            "Tailed Beast Full Charge",
+            "Tailed Beast Rasengan",
+            "Tailed Beast Shockwave",
+            "Torii Seal",
+            "Tornado Rasengan",
+            "Truth-Seeking Ball",
+            "Turning into a Frog Technique (Anime only)",
+            "Typhoon Water Vortex Technique",
+            "Ultra-Big Ball Rasengan",
+            "Ultra-Many Spiralling Serial Spheres",
+            "Uzumaki Formation (Anime only)",
+            "Wind Release: Rasengan",
+            "Wind Release: Rasenshuriken",
+            "Wind Release: Repeated Rasenshuriken",
+            "Wind Release: Toad Gun (Anime only)",
+            "Wind Release: Toad Oil Bullet (Anime only)",
+            "Wind Release: Toad Oil Flame Bullet (Anime only)",
+            "Wind Release: Ultra-Big Ball Rasenshuriken",
+            "Wisdom Wolf Decay"
+          ],
+          "natureType": [
+            "Wind Release  (Affinity)",
+            "Lightning Release",
+            "Earth Release",
+            "Water Release",
+            "Fire Release",
+            "Lava Release",
+            "Magnet Release",
+            "Boil Release",
+            "Yin Release",
+            "Yang Release",
+            "Yin–Yang Release"
+          ],
+          "personal": {
+            "birthdate": "October 10",
+            "sex": "Male",
+            "age": {
+              "Part I": "12–13",
+              "Part II": "15–17",
+              "Academy Graduate": "12"
+            },
+            "height": {
+              "Part I": "145.3cm - 147.5cm",
+              "Part II": "166cm",
+              "Blank Period": "180cm"
+            },
+            "weight": {
+              "Part I": "40.1kg - 40.6kg",
+              "Part II": "50.9kg"
+            },
+            "bloodType": "B",
+            "kekkeiGenkai": ["Lava Release", "Magnet Release", "Boil Release"],
+            "classification": ["Jinchūriki", "Sage", "Sensor Type"],
+            "tailedBeast": "Shukaku, Matatabi, Isobu, Son Gokū, Kokuō, Saiken, Chōmei, Gyūki, Kurama (Forms)",
+            "occupation": ["Hokage", "Chūnin Exams Proctor  (Anime only)"],
+            "affiliation": [
+              "Konohagakure",
+              "Mount Myōboku",
+              "Allied Shinobi Forces"
+            ],
+            "team": [
+              "Team Kakashi",
+              "Sasuke Recovery Team",
+              "Konoha 11  (Anime only)",
+              "Bikōchū Search Team  (Anime only)",
+              "Kaima Capture Team  (Anime only)",
+              "Star Guard Team  (Anime only)",
+              "Peddlers Escort Team  (Anime only)",
+              "Kazekage Rescue Team",
+              "Team One  (Anime only)",
+              "Eight Man Squad",
+              "Hanabi Rescue Team  (Movie only)"
+            ],
+            "clan": "Uzumaki",
+            "titles": [
+              "うずまきナルトUzumakiNaruto",
+              "the-off,NumberOneUnpredictable,NoisyNinja(目立ちたがり屋で意外性no.1のドタバタ忍者,MedachitagariyaDeIgaiseiNanbāWanNoDotabataNinja,EnglishTv:NumberOneHyperactive,KnuckleheadNinja)",
+              "childOfTheProphecy(予言の子,YogenNoKo)",
+              "saviourOfThisWorld(この世の救世主,KonoYoNoKyūseishu)",
+              "heroOfTheHiddenLeaf(木ノ葉隠れの英雄,KonohagakureNoEiyū,LiterallyMeaning:HeroOfTheHiddenTreeLeaves)",
+              "boyOfMiracles(奇跡を起こす少年,KisekiOOkosuShōnen)",
+              "konoha'sOrangeHokage(木ノ葉のオレンジ火影,KonohaNoOrenjiHokage,LiterallyMeaning:TreeLeaves'OrangeFireShadow)",
+              "seventhHokage(七代目火影,NanadaimeHokage,LiterallyMeaning:SeventhFireShadow)",
+              "fox(狐,Kitsune)"
+            ]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part I": "Genin",
+              "Gaiden": "Kage"
+            },
+            "ninjaRegistration": "012607"
+          },
+          "tools": [
+            "Absorbing Hand",
+            "Bō (Anime only)",
+            "Chakra Blade (Anime only)",
+            "Flying Thunder God Kunai",
+            "Fūma Shuriken",
+            "Hidden Kunai Mechanism",
+            "Konoha Chakra Blade",
+            "Sand",
+            "Stone of Gelel"
+          ],
+          "voiceActors": {
+            "japanese": ["Junko Takeuchi", "Ema Kogure   (Sexy Technique)"],
+            "english": [
+              "Maile Flanagan",
+              "Stephanie Sheh   (Sexy Technique)",
+              "Jeannie Elias   (Sexy Technique) (episode 53-55)",
+              "Mary Elizabeth McGlynn   (Sexy Technique) (episode 177)",
+              "Kate Higgins   (Sexy Technique) (episode 229)"
+            ]
+          }
+        },
+        {
+          "id": 1373,
+          "name": "Yamato",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/f/f7/Yamato_newshot.png",
+            "https://static.wikia.nocookie.net/naruto/images/4/48/Yamato_Part_III.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #284",
+            "anime": "Naruto Shippūden Episode #34",
+            "novel": "Konoha Hiden: The Perfect Day for a Wedding",
+            "movie": "Naruto Shippūden the Movie: Bonds",
+            "game": "Naruto Shippūden: Gekitō Ninja Taisen! EX 2",
+            "ova": "Naruto Shippūden: UNSG anime cutscenes",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "jutsu": [
+            "Area Scanning Technique",
+            "Ball of Light Technique (Anime only)",
+            "Earth Release: Earth Flow Divide",
+            "Earth Release: Earth Flow Spears (Anime only)",
+            "Earth Release: Earth-Style Rampart",
+            "Earth Release: Earth-Style Wall",
+            "Earth Release: Hiding in Rock Technique (Anime only)",
+            "Earth Release: Tunnelling Technique",
+            "Hiding in Surface Technique",
+            "Hokage-Style Sixty-Year-Old Technique — Kakuan Entering Society with Bliss-Bringing Hands",
+            "Regeneration Ability",
+            "Tailed Beast Sealing",
+            "Transmission Wood",
+            "Typhoon Water Vortex Technique",
+            "Water Release: Tearing Torrent",
+            "Water Release: Water Bowl (Anime only)",
+            "Water Release: Water Formation Wall (Anime only)",
+            "Water Release: Waterfall Basin Technique",
+            "Wood Clone Technique",
+            "Wood Release: Foo Dog Heads",
+            "Wood Release: Four-Pillar House Technique",
+            "Wood Release: Four-Pillar Prison Technique",
+            "Wood Release: Great Forest Technique",
+            "Wood Release: Hand Tool Manipulation",
+            "Wood Release: Nativity of a Sea of Trees",
+            "Wood Release: Serial Pillar Houses Technique",
+            "Wood Release: Smothering Binding Technique",
+            "Wood Release: Stocks",
+            "Wood Release: Transformation",
+            "Wood Release: Tree Bind Flourishing Burial (Anime only)",
+            "Wood Release: Wood Locking Wall",
+            "Wood Release: Wood Spikes Ring",
+            "Wood Release: World of Trees Wall (Anime only)"
+          ],
+          "natureType": [
+            "Wood Release",
+            "Earth Release",
+            "Water Release",
+            "Yang Release"
+          ],
+          "personal": {
+            "birthdate": "August 10",
+            "sex": "Male",
+            "age": {
+              "Part II": "26–27",
+              "Academy Graduate": "6",
+              "Chunin Promotion": "6"
+            },
+            "height": {
+              "Part II": "178cm"
+            },
+            "weight": {
+              "Part II": "58.4kg"
+            },
+            "bloodType": "A",
+            "kekkeiGenkai": "Wood Release",
+            "affiliation": ["Konohagakure", "Root", "Allied Shinobi Forces"],
+            "team": [
+              "Team Ro  (Anime only)",
+              "Team Kakashi",
+              "Eight Man Squad",
+              "Team Two  (Anime only)",
+              "Infiltration and Reconnaissance Party"
+            ],
+            "titles": [
+              "ヤマトYamato",
+              "tenzō(テンゾウ)",
+              "tenzōOfTheWoodRelease(木遁のテンゾウ,MokutonNoTenzō)",
+              "kinoe(甲)"
+            ]
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part II": "Anbu",
+              "Gaiden": "Jōnin"
+            },
+            "ninjaRegistration": "010992"
+          },
+          "tools": [
+            "Antidote (Anime only)",
+            "First Hokage's Necklace",
+            "Konoha Chakra Blade",
+            "Sword"
+          ],
+          "voiceActors": {
+            "japanese": ["Rikiya Koyama", "Eri Gōda   (Child)"],
+            "english": [
+              "Troy Baker   (Shippūden Episodes 34-229)",
+              "Matthew Mercer   (Shippūden Episode 230+)",
+              "Colleen Villard   (Child)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Eight-Tails Subduing Team",
+      "characters": [
+        {
+          "id": 5,
+          "name": "A (Third Raikage)",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/f/f5/Raikage3.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #494",
+            "anime": "Naruto Shippūden Episode #244",
+            "game": "Naruto Shippūden: Ultimate Ninja Storm 3",
+            "appearsIn": "Anime, Manga, Game"
+          },
+          "family": {
+            "son": "A",
+            "nephew": "Blue B",
+            "adoptive son": "Killer B"
+          },
+          "jutsu": [
+            "Black Lightning",
+            "Body Flicker Technique",
+            "Hell Stab",
+            "Lightning Release Chakra Mode",
+            "Lightning Straight"
+          ],
+          "natureType": ["Lightning Release", "Earth Release", "Fire Release"],
+          "personal": {
+            "birthdate": "August 1",
+            "sex": "Male",
+            "status": "Deceased",
+            "height": {
+              "Part II": "205cm"
+            },
+            "weight": {
+              "Part II": "105.1kg"
+            },
+            "bloodType": "O",
+            "occupation": "Raikage",
+            "affiliation": "Kumogakure",
+            "team": "Eight-Tails Subduing Team",
+            "partner": "Blue B"
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part II": "Kage"
+            }
+          },
+          "tools": ["Kohaku no Jōhei"],
+          "voiceActors": {
+            "japanese": "Naoki Tamanoi",
+            "english": [
+              "Beau Billingslea   (episodes 244-281; 302+)",
+              "Neil Kaplan   (episodes 282-301)",
+              "Fred Tatasciore   (Ultimate Ninja Storm 3)"
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "name": "A (Fourth Raikage)",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/4/4c/Fourth_Raikage_2.png",
+            "https://static.wikia.nocookie.net/naruto/images/4/4b/A_Part_III.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #416",
+            "anime": "Naruto Shippūden Episode #152",
+            "novel": "Kakashi Hiden: Lightning in the Icy Sky",
+            "movie": "Naruto the Movie: Blood Prison",
+            "game": "Naruto Shippūden: Gekitō Ninja Taisen! Special",
+            "ova": "Naruto Shippūden: UNSG anime cutscenes",
+            "appearsIn": "Anime, Manga, Novel, Game, Movie"
+          },
+          "family": {
+            "father": "A",
+            "adoptive brother": "Killer B",
+            "cousin": "Blue B"
+          },
+          "jutsu": [
+            "Body Flicker Technique",
+            "Drop Kick (Anime only)",
+            "Elbow",
+            "Guillotine Drop",
+            "Iron Claw",
+            "Liger Bomb",
+            "Lightning Oppression Horizontal",
+            "Lightning Oppression Horizontal Chop",
+            "Lightning Release Chakra Mode",
+            "Lightning Release: Double Lariat",
+            "Lightning Release: Lariat",
+            "Lightning Straight",
+            "Lightning Water Dragon Bullet"
+          ],
+          "natureType": ["Lightning Release", "Earth Release", "Water Release"],
+          "personal": {
+            "birthdate": "June 1",
+            "sex": "Male",
+            "age": {
+              "Part II": "47"
+            },
+            "height": {
+              "Part II": "198.2cm"
+            },
+            "weight": {
+              "Part II": "101.1kg"
+            },
+            "bloodType": "A",
+            "occupation": [
+              "Raikage",
+              "Supreme Leader of the Allied Shinobi Forces"
+            ],
+            "affiliation": ["Kumogakure", "Allied Shinobi Forces"],
+            "team": ["Eight-Tails Subduing Team", "A–B Combo"],
+            "partner": "Killer B"
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part II": "Kage"
+            },
+            "ninjaRegistration": "CL2211"
+          },
+          "tools": ["Chakra Cannon", "Vambraces"],
+          "voiceActors": {
+            "japanese": "Hideaki Tezuka",
+            "english": "Beau Billingslea"
+          }
+        },
+        {
+          "id": 251,
+          "name": "Furui",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/9/96/Furui.png"
+          ],
+          "debut": {
+            "manga": "Naruto Chapter #494",
+            "anime": "Naruto Shippūden Episode #244",
+            "appearsIn": "Anime, Manga"
+          },
+          "family": {
+            "son": "Motoi"
+          },
+          "natureType": ["Lightning Release  (Anime only)"],
+          "personal": {
+            "sex": "Male",
+            "age": {
+              "Part II": "35"
+            },
+            "status": "Deceased",
+            "affiliation": "Kumogakure",
+            "team": "Eight-Tails Subduing Team"
+          },
+          "rank": {
+            "ninjaRank": {
+              "Part II": "Jōnin"
+            }
+          },
+          "tools": ["Kusari"],
+          "voiceActors": {
+            "japanese": "Shinobu Matsumoto",
+            "english": "Wally Wingert"
+          }
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Enlightened Ones",
+      "characters": [
+        {
+          "id": 297,
+          "name": "Gengo",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/e/ef/Gengo.png"
+          ],
+          "debut": {
+            "anime": "Naruto Shippūden Episode #491",
+            "novel": "Shikamaru Hiden: A Cloud Drifting in Silent Darkness",
+            "game": "Naruto Shippūden: Ultimate Ninja Blazing",
+            "appearsIn": "Anime, Novel, Game"
+          },
+          "jutsu": [
+            "Demonic Illusion: Cajolery of Glamour",
+            "Sensing Technique (Novel only)",
+            "Summoning Technique (Anime only)"
+          ],
+          "natureType": ["Yin Release"],
+          "personal": {
+            "sex": "Male",
+            "classification": ["Missing-nin", "Daimyō", "Sensor Type"],
+            "occupation": "Leader of the Enlightened Ones",
+            "affiliation": ["Kirigakure", "Land of Silence"],
+            "team": "Enlightened Ones"
+          },
+          "tools": ["Sword (Novel only)"],
+          "voiceActors": {
+            "japanese": "Atsushi Ono",
+            "english": "Kaiji Tang"
+          }
+        },
+        {
+          "id": 680,
+          "name": "Komori",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/0/0c/Komari.png"
+          ],
+          "personal": {
+            "sex": "Male",
+            "affiliation": "Land of Silence",
+            "team": "Enlightened Ones"
+          },
+          "voiceActors": {
+            "japanese": "Hirokazu Sekido",
+            "english": "Lucien Dodge"
+          }
+        },
+        {
+          "id": 804,
+          "name": "Minoichi",
+          "images": [
+            "https://static.wikia.nocookie.net/naruto/images/7/7d/Minoichi.png"
+          ],
+          "debut": {
+            "anime": "Naruto Shippūden Episode #491",
+            "novel": "Shikamaru Hiden: A Cloud Drifting in Silent Darkness",
+            "game": "Naruto Shippūden: Ultimate Ninja Blazing",
+            "appearsIn": "Anime, Novel, Game"
+          },
+          "personal": {
+            "sex": "Male",
+            "classification": "Missing-nin",
+            "affiliation": [
+              "Konohagakure",
+              "Allied Shinobi Forces",
+              "Land of Silence"
+            ],
+            "team": "Enlightened Ones"
+          },
+          "rank": {
+            "ninjaRank": {
+              "Blank Period": "Anbu"
+            }
+          },
+          "voiceActors": {
+            "japanese": "Ryūichi Kijima",
+            "english": "Ted Sroka"
+          }
+        }
+      ]
+    }
+  ],
+  "currentPage": 1,
+  "pageSize": 20,
+  "totalTeams": 191
+}
